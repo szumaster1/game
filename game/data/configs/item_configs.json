@@ -61363,6 +61363,16 @@
     "destroy": "true",
     "id": "6754"
   },
+    {
+    "destroy_message": "Hopefully there was another in the chest!",
+    "examine": "Somebody's private journal.",
+    "durability": null,
+    "name": "Journal",
+    "tradeable": "false",
+    "archery_ticket_price": "0",
+    "destroy": "true",
+    "id": "6755"
+  },
   {
     "destroy_message": "Hopefully Jorral will give you another!",
     "examine": "A sealed letter to the king.",
