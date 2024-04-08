@@ -21170,5 +21170,49 @@
   {
     "examine": "Fairground style claw.",
     "ids": "14976"
+  },
+  {
+    "examine": "The bank teller will serve you from here.",
+    "ids": "34752"
+  },
+  {
+    "examine": "I wonder if I can open it and take a peek inside.",
+    "ids": "34756"
+  },
+  {
+    "examine": "A shrine to the glory of Saradomin.",
+    "ids": "34616"
+  },
+  {
+    "examine": "A slippery well worn log.",
+    "ids": "35997"
+  },
+  {
+    "examine": "Bake your clay items in here.",
+    "ids": "34802"
+  },
+  {
+    "examine": "Fine silver items are for sale here.",
+    "ids": "34382"
+  },
+  {
+    "examine": "Fine silk woven by experts.",
+    "ids": "34383"
+  },
+  {
+    "examine": "It's loaded with bread and cakes.",
+    "ids": "34384"
+  },
+  {
+    "examine": "Precious stones from around the world.",
+    "ids": "34385"
+  },
+  {
+    "examine": "Spices to tingle your taste buds.",
+    "ids": "34386"
+  },
+  {
+    "examine": "Around here, this is where you buy new doors.",
+    "ids": "34387"
   }
 ]

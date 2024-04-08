@@ -58930,7 +58930,7 @@
     ],
     "charm": [],
     "ids": "3057,3059,3058,3060,3061,3062,3063,3064,3065,3066",
-    "description": "Champion's Challenge NPC - activity",
+    "description": "Champion's Challenge NPC - (Lore activity)",
     "main": []
   },
   {
@@ -59049,6 +59049,20 @@
     "charm": [],
     "ids": "2880",
     "description": "Dagannoth fledgeling",
+    "main": []
+  },
+  {
+    "default": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "526",
+        "maxAmount": "1"
+      }
+    ],
+    "charm": [],
+    "ids": "66,67,68",
+    "description": "Gnome",
     "main": []
   }
 ]

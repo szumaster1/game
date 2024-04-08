@@ -5008,6 +5008,37 @@
     "id": "300"
   },
   {
+    "examine": "A completely ordinary twig.",
+    "name": "Twig",
+    "id": "301"
+  },
+  {
+    "examine": "Could do with losing a bit of weight.",
+    "name": "Hadley",
+    "id": "302"
+  },
+  {
+    "examine": "Looks suspiciously like a fisherman.",
+    "name": "Gerald",
+    "id": "303"
+  },
+  {
+    "examine": "Nice hair.",
+    "name": "Almera",
+    "id": "304"
+  },
+  {
+    "examine": "Looks young.",
+    "name": "Hudon",
+    "id": "305"
+  },
+
+  {
+    "examine": "It's a tree gnome.",
+    "name": "Golrie",
+    "id": "306"
+  },
+  {
     "examine": "An old motherly witch with a curious smile and a hooked nose.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -5452,6 +5483,11 @@
     "id": "365",
     "range_level": "1",
     "attack_level": "1"
+  },
+  {
+    "examine": "He looks friendly enough.",
+    "name": "Jerico",
+    "id": "366"
   },
   {
     "examine": "Smells very chemically...",
@@ -5936,7 +5972,7 @@
     "defence_animation": "354"
   },
   {
-    "examine": "A very strange old man...,",
+    "examine": "A very strange old man...",
     "melee_animation": "0",
     "range_animation": "0",
     "defence_animation": "0",
