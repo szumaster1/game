@@ -21214,5 +21214,41 @@
   {
     "examine": "Around here, this is where you buy new doors.",
     "ids": "34387"
+  },
+  {
+    "examine": "This is a size-1 star.",
+    "ids": "38668"
+  },
+  {
+    "examine": "This is a size-2 star.",
+    "ids": "38667"
+  },
+  {
+    "examine": "This is a size-3 star.",
+    "ids": "38666"
+  },
+  {
+    "examine": "This is a size-4 star.",
+    "ids": "38665"
+  },
+  {
+    "examine": "This is a size-5 star.",
+    "ids": "38664"
+  },
+  {
+    "examine": "This is a size-6 star.",
+    "ids": "38663"
+  },
+  {
+    "examine": "This is a size-7 star.",
+    "ids": "38662"
+  },
+  {
+    "examine": "This is a size-8 star.",
+    "ids": "38661"
+  },
+  {
+    "examine": "This is a size-9 star.",
+    "ids": "38660"
   }
 ]
