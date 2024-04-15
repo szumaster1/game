@@ -1869,6 +1869,11 @@
     "attack_level": "32"
   },
   {
+    "examine": "An undead worker of dark magic.",
+    "name": "Skeleton Mage",
+    "id": "94"
+  },
+  {
     "examine": "Not man's best friend.",
     "slayer_task": "92",
     "combat_audio": "481,491,490",
@@ -2990,6 +2995,22 @@
     "defence_level": "1",
     "lifepoints": "10",
     "strength_level": "1",
+    "id": "149",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "A sea bird.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Gull",
+    "safespot": null,
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
     "id": "150",
     "range_level": "1",
     "attack_level": "1"
@@ -3055,6 +3076,54 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "154",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "These look much better in the wild.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Butterfly",
+    "safespot": null,
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "155",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "These look much better in the wild.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Butterfly",
+    "safespot": null,
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "156",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "These look much better in the wild.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Butterfly",
+    "safespot": null,
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "157",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -3183,9 +3252,19 @@
     "attack_level": "38"
   },
   {
+    "examine": "Sells gnomish things.",
+    "name": "Gnome shop keeper",
+    "id": "165"
+  },
+  {
     "examine": "Banks gnomish things.",
     "name": "Gnome banker",
     "id": "166"
+  },
+  {
+    "examine": "A professional gnome baller.",
+    "name": "Gnome baller",
+    "id": "167"
   },
   {
     "examine": "A female gnome.",
@@ -3367,6 +3446,24 @@
     "lifepoints": "31",
     "strength_level": "1",
     "id": "176",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "The hat's a dead give away.",
+    "melee_animation": "423",
+    "range_animation": "0",
+    "magic_level": "22",
+    "defence_animation": "0",
+    "weakness": "4",
+    "magic_animation": "0",
+    "death_animation": "836",
+    "name": "Witch",
+    "safespot": null,
+    "defence_level": "22",
+    "lifepoints": "31",
+    "strength_level": "1",
+    "id": "177",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -3728,6 +3825,24 @@
     "attack_level": "1"
   },
   {
+    "examine": "A wilderness outlaw.",
+    "melee_animation": "386",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "weakness": "1",
+    "magic_animation": "0",
+    "death_animation": "836",
+    "name": "Bandit",
+    "safespot": null,
+    "defence_level": "20",
+    "lifepoints": "28",
+    "strength_level": "20",
+    "aggressive": "true",
+    "id": "195",
+    "range_level": "20",
+    "attack_level": "20"
+  },
+  {
     "examine": "Bandit Camp guard.",
     "melee_animation": "386",
     "range_animation": "0",
@@ -3744,6 +3859,23 @@
     "id": "196",
     "range_level": "20",
     "attack_level": "20"
+  },
+  {
+    "examine": "Not very civilised looking.",
+    "melee_animation": "395",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "weakness": "8",
+    "magic_animation": "0",
+    "death_animation": "836",
+    "name": "Barbarian guard",
+    "safespot": null,
+    "defence_level": "29",
+    "lifepoints": "41",
+    "strength_level": "29",
+    "id": "197",
+    "range_level": "1",
+    "attack_level": "29"
   },
   {
     "examine": "Master of the Champions' Guild.",
@@ -3777,6 +3909,11 @@
     "id": "199",
     "range_level": "1",
     "attack_level": "29"
+  },
+  {
+    "examine": "Wears a stylish suit of armour.",
+    "name": "Lord Daquarius",
+    "id": "200"
   },
   {
     "examine": "Guards prisoners for the black knights.",
@@ -5683,6 +5820,11 @@
     "id": "382",
     "range_level": "1",
     "attack_level": "1"
+  },
+  {
+    "examine": "He's in control of the coal trucks.",
+    "name": "Stankers",
+    "id": "383"
   },
   {
     "examine": "Not very civilised looking.",
@@ -10623,6 +10765,11 @@
     "attack_level": "1"
   },
   {
+    "examine": "A happening kind of guy!",
+    "name": "Kangai Mau",
+    "id": "846"
+  },
+  {
     "examine": "Despite his name, rarely actually cooks heads.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -13209,6 +13356,11 @@
     "id": "1069",
     "range_level": "1",
     "attack_level": "1"
+  },
+  {
+    "examine": "A dishevelled and irritable Hermit.",
+    "name": "Saba",
+    "id": "1070"
   },
   {
     "examine": "The Burthorpe Castle cook.",
@@ -21330,6 +21482,11 @@
     "attack_level": "1"
   },
   {
+    "examine": "Freshly sheared.",
+    "name": "Sheep",
+    "id": "1762"
+  },
+  {
     "examine": "White and fluffy.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -21344,6 +21501,16 @@
     "id": "1763",
     "range_level": "1",
     "attack_level": "1"
+  },
+  {
+    "examine": "Freshly sheared.",
+    "name": "Sheep",
+    "id": "1764"
+  },
+  {
+    "examine": "White and fluffy. Perfect for shearing!",
+    "name": "Sheep",
+    "id": "1765"
   },
   {
     "examine": "Young, but still beefy.",
