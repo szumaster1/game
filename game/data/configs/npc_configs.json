@@ -26174,7 +26174,39 @@
     "attack_level": "1"
   },
   {
-    "examine": "There to help me make my bids.",
+    "examine": "A local farmer. She might be able to provide some useful information.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Donie",
+    "safespot": null,
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "2238",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Porker or swine.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Pig",
+    "safespot": null,
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "2239",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Porker or swine.",
     "melee_animation": "0",
     "range_animation": "0",
     "defence_animation": "0",
@@ -77432,6 +77464,31 @@
     "aggressive": "true",
     "range_level": "1",
     "attack_level": "38"
+  },
+  {
+    "examine": "He seems to have travelled some distance.",
+    "name": "Iain",
+    "id": "7868"
+  },
+  {
+    "examine": "He has the aura of old hymn books.",
+    "name": "Julian",
+    "id": "7869"
+  },
+  {
+    "examine": "He has the aura of a lazy-bones about him.",
+    "name": "Lachtopher",
+    "id": "7870"
+  },
+  {
+    "examine": "He seems bored in this small town.",
+    "name": "Samuel",
+    "id": "7871"
+  },
+  {
+    "examine": "She seems to be stressed.",
+    "name": "Victoria",
+    "id": "7872"
   },
   {
     "examine": "A melee training dummy",
