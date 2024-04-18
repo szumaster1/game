@@ -14003,6 +14003,16 @@
     "attack_level": "53"
   },
   {
+    "examine": "A rather mad-looking hermit.",
+    "name": "Eadgar",
+    "id": "1113"
+  },
+  {
+    "examine": "Dunstan's son.",
+    "name": "Godric",
+    "id": "1114"
+  },
+  {
     "examine": "One of the troll generals.",
     "slayer_task": "83",
     "melee_animation": "1259",
