@@ -510,6 +510,12 @@
     "tabIndex": "1"
   },
   {
+    "id": "321",
+    "interfaceType": "1",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
     "id": "324",
     "interfaceType": "0",
     "walkable": "false",
