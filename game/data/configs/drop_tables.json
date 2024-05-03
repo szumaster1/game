@@ -59064,5 +59064,19 @@
     "ids": "66,67,68",
     "description": "Gnome",
     "main": []
+  },
+  {
+    "default": [],
+    "charm": [],
+    "ids": "795",
+    "description": "Ice queen",
+    "main": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "1580",
+        "maxAmount": "1"
+      }
+    ]
   }
 ]
