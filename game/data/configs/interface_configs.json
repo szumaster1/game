@@ -828,8 +828,14 @@
     "tabIndex": "-1"
   },
   {
+    "id": "653",
+    "interfaceType": "8",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
     "id": "656",
-    "interfaceType": "1",
+    "interfaceType": "8",
     "walkable": "true",
     "tabIndex": "-1"
   },
@@ -847,7 +853,7 @@
   },
   {
     "id": "665",
-    "interfaceType": "3",
+    "interfaceType": "1",
     "walkable": "false",
     "tabIndex": "-1"
   },
@@ -955,7 +961,7 @@
   },
   {
     "id": "809",
-    "interfaceType": "1",
+    "interfaceType": "8",
     "walkable": "true",
     "tabIndex": "-1"
   }
