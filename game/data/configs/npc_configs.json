@@ -43993,6 +43993,16 @@
     "respawn_delay": "60"
   },
   {
+    "id": "4472",
+    "name": "Bogrog",
+    "examine": "Ugly and bad-tempered."
+  },
+  {
+    "id": "4473",
+    "name": "Woman",
+    "examine": "One of Gielinor's many citizens."
+  },
+  {
     "id": "4474",
     "name": "Magic dummy",
     "examine": "A magic training dummy",
@@ -44011,6 +44021,11 @@
     "magic_animation": "0",
     "death_animation": "97",
     "respawn_delay": "60"
+  },
+  {
+    "id": "4475",
+    "name": "Ned",
+    "examine": "An old sailor."
   },
   {
     "id": "4476",
