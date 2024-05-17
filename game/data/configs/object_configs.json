@@ -6388,12 +6388,12 @@
     "ids": "4131"
   },
   {
-    "examine": "These doors look very ominous. A sign says 'To the tombs'.",
-    "ids": "4132,4133"
+    "examine": "This tells you which way is which.",
+    "ids": "4132,4133,4134,4135"
   },
   {
-    "examine": "Large doors set into the hillside.",
-    "ids": "4134,4135,4136,4137"
+    "examine": "These doors look very ominous. A sign says 'To the tombs'.",
+    "ids": "4136,4137"
   },
   {
     "examine": "Items are for sale here.",
@@ -20048,6 +20048,22 @@
     "ids": "14503"
   },
   {
+    "examine": "Danger, Wilderness up ahead. Last chance to turn back...",
+    "ids": "14504"
+  },
+  {
+    "examine": "Danger, Wilderness up ahead. Watch out for the Beast!",
+    "ids": "14505"
+  },
+  {
+    "examine": "Danger, Wilderness up ahead. Beware of stray magma.",
+    "ids": "14506"
+  },
+  {
+    "examine": "Danger, Wilderness up ahead. Almost certain death!",
+    "ids": "14507"
+  },
+  {
     "examine": "Rough but adequate.",
     "ids": "14918"
   },
@@ -20144,6 +20160,10 @@
     "ids": "17248"
   },
   {
+    "examine": "A sealed barrel with a warning sign on it.",
+    "ids": "17296"
+  },
+  {
     "examine": "A barrel with a warning sign on it.",
     "ids": "17297"
   },
@@ -20178,6 +20198,10 @@
   {
     "examine": "Popular on sandy beaches where fruity cocktails may be found.",
     "ids": "18856"
+  },
+  {
+    "examine": "A sign on a cactus.",
+    "ids": "18876"
   },
   {
     "examine": "Dead and half-buried.",
@@ -21170,6 +21194,10 @@
   {
     "examine": "Fairground style claw.",
     "ids": "14976"
+  },
+  {
+    "examine": "An interesting sign.",
+    "ids": "31297,31298,31299,31300,31301"
   },
   {
     "examine": "The bank teller will serve you from here.",
