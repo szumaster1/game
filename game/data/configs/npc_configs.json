@@ -6065,6 +6065,16 @@
     "death_animation": "0"
   },
   {
+    "id": "399",
+    "name": "Legends guard",
+    "examine": "A Legends Guild guard; he protects the entrance to the Legends Guild."
+  },
+  {
+    "id": "400",
+    "name": "Radimus Erkle",
+    "examine": "Radimus is the Grand Vizier of the Legends Guild."
+  },
+  {
     "id": "401",
     "name": "Jungle forester",
     "examine": "He deals in exotic types of wood.",
@@ -7857,6 +7867,16 @@
     "death_animation": "0"
   },
   {
+    "id": "536",
+    "name": "Valaine",
+    "examine": "A champion saleswoman!"
+  },
+  {
+    "id": "537",
+    "name": "Scavvo",
+    "examine": "He's got the best armour around."
+  },
+  {
     "id": "538",
     "name": "Peksa",
     "examine": "Always up-to-date with the latest helmet fashions."
@@ -9006,6 +9026,16 @@
     "respawn_delay": "30"
   },
   {
+    "id": "668",
+    "name": "Johnathon",
+    "examine": "A well-dressed nobleman."
+  },
+  {
+    "id": "669",
+    "name": "Hazelmere",
+    "examine": "An ancient looking gnome."
+  },
+  {
     "id": "670",
     "name": "King Narnode Shareen",
     "examine": "An important looking gnome.",
@@ -9036,6 +9066,16 @@
     "range_animation": "0",
     "magic_animation": "0",
     "death_animation": "0"
+  },
+  {
+    "id": "672",
+    "name": "Anita",
+    "examine": "Glough's girlfriend."
+  },
+  {
+    "id": "673",
+    "name": "Charlie",
+    "examine": "Poor guy, he looks frightened."
   },
   {
     "id": "674",
@@ -15053,6 +15093,16 @@
     "death_animation": "0"
   },
   {
+    "id": "1163",
+    "name": "Tiadeche",
+    "examine": "A rather depressed looking fisherman."
+  },
+  {
+    "id": "1164",
+    "name": "Tiadeche",
+    "examine": "A rather depressed looking fisherman."
+  },
+  {
     "id": "1171",
     "name": "Lubufu",
     "examine": "'A crotchety old fisherman who doesn't like young whippersnappers'"
@@ -15087,6 +15137,23 @@
     "name": "Gull",
     "examine": "Flappy bird.",
     "water_npc": "true"
+  },
+  {
+    "id": "1180",
+    "name": "Cormorant",
+    "examine": "A sea bird.",
+    "water_npc": "true"
+  },
+  {
+    "id": "1181",
+    "name": "Pelican",
+    "examine": "A sea bird.",
+    "water_npc": "true"
+  },
+  {
+    "id": "1182",
+    "name": "Lord Iorwerth",
+    "examine": "An elf lord."
   },
   {
     "id": "1183",
@@ -50666,6 +50733,31 @@
     "death_animation": "9055"
   },
   {
+    "id": "5107",
+    "name": "",
+    "examine": ""
+  },
+  {
+    "id": "5108",
+    "name": "",
+    "examine": ""
+  },
+  {
+    "id": "5109",
+    "name": "Artimeus",
+    "examine": "He looks like he knows what he's doing."
+  },
+  {
+    "id": "5110",
+    "name": "Aleck",
+    "examine": "He acts as if he owns the place."
+  },
+  {
+    "id": "5111",
+    "name": "Leon",
+    "examine": "He seems to be making odd sucking noises with his teeth."
+  },
+  {
     "id": "5112",
     "name": "Hunting expert",
     "examine": "He must be good at hunting; even his hair blends in with the surroundings.",
@@ -75108,6 +75200,16 @@
     "magic_animation": "0"
   },
   {
+    "id": "7420",
+    "name": "Hieronymus Avlafrim",
+    "examine": "A gnome inventor, creator of the gnomecopters."
+  },
+  {
+    "id": "7421",
+    "name": "Sasquine Huburns",
+    "examine": "Test pilot and co-founder of Gnomecopter Tours."
+  },
+  {
     "id": "7417",
     "name": "Rat",
     "examine": "A popular dwarven delicacy.",
@@ -77801,6 +77903,11 @@
     "examine": "He probably spends hours on his coiffure."
   },
   {
+    "id": "8046",
+    "name": "Ube",
+    "examine": "She looks as if she'd be level-headed in emergencies."
+  },
+  {
     "id": "8273",
     "name": "Turael",
     "examine": "He looks dangerous!",
@@ -78389,19 +78496,34 @@
     "respawn_delay": "100"
   },
   {
+    "id": "8425",
+    "name": "Dragon head",
+    "examine": "It appears to be the head of a dragon."
+  },
+  {
+    "id": "8426",
+    "name": "Dragon head",
+    "examine": "It appears to be the head of a dragon."
+  },
+  {
+    "id": "8427",
+    "name": "Dragon head",
+    "examine": "It appears to be the head of a dragon."
+  },
+  {
+    "id": "8428",
+    "name": "Khazard launderer",
+    "examine": "He's washing clothes carefully."
+  },
+  {
     "id": "8544",
     "name": "Isidor",
     "examine": "A wizard. Apparently he's into portals."
   },
   {
-    "id": "5110",
-    "name": "Aleck",
-    "examine": "He acts as if he owns the place."
-  },
-  {
-    "id": "5111",
-    "name": "Leon",
-    "examine": "He seems to be making odd sucking noises with his teeth."
+    "id": "8590",
+    "name": "Geoffrey",
+    "examine": "He collects flax."
   },
   {
     "id": "5566",
@@ -78676,11 +78798,6 @@
     "examine": "A citizen of Nardah."
   },
   {
-    "id": "5109",
-    "name": "Artimeus",
-    "examine": "He looks like he knows what he's doing."
-  },
-  {
     "id": "3035",
     "name": "Meskhenet",
     "examine": "A citizen of Nardah."
@@ -78829,60 +78946,5 @@
     "id": "4978",
     "name": "Female slave",
     "examine": "She looks like she's been down here a long time."
-  },
-  {
-    "id": "7420",
-    "name": "Hieronymus Avlafrim",
-    "examine": "A gnome inventor, creator of the gnomecopters."
-  },
-  {
-    "id": "7421",
-    "name": "Sasquine Huburns",
-    "examine": "Test pilot and co-founder of Gnomecopter Tours."
-  },
-  {
-    "id": "536",
-    "name": "Valaine",
-    "examine": "A champion saleswoman!"
-  },
-  {
-    "id": "537",
-    "name": "Scavvo",
-    "examine": "He's got the best armour around."
-  },
-  {
-    "id": "8046",
-    "name": "Ube",
-    "examine": "She looks as if she'd be level-headed in emergencies."
-  },
-  {
-    "id": "668",
-    "name": "Johnathon",
-    "examine": "A well-dressed nobleman."
-  },
-  {
-    "id": "8425",
-    "name": "Dragon head",
-    "examine": "It appears to be the head of a dragon."
-  },
-  {
-    "id": "8426",
-    "name": "Dragon head",
-    "examine": "It appears to be the head of a dragon."
-  },
-  {
-    "id": "8427",
-    "name": "Dragon head",
-    "examine": "It appears to be the head of a dragon."
-  },
-  {
-    "id": "8428",
-    "name": "Khazard launderer",
-    "examine": "He's washing clothes carefully."
-  },
-  {
-    "id": "400",
-    "name": "Radimus Erkle",
-    "examine": "Radimus is the Grand Vizier of the Legends Guild."
   }
 ]
