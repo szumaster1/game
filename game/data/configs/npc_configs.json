@@ -58010,6 +58010,22 @@
     "death_animation": "0"
   },
   {
+    "id": "5893",
+    "name": "Cyrisus",
+    "examine": "I hope he's not dead!",
+    "lifepoints": "10",
+    "attack_level": "1",
+    "strength_level": "1",
+    "defence_level": "1",
+    "range_level": "1",
+    "safespot": null,
+    "melee_animation": "0",
+    "defence_animation": "0",
+    "range_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0"
+  },
+  {
     "id": "5902",
     "name": "The Inadequacy",
     "examine": "Are you good enough to fight?",

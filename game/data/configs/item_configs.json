@@ -8997,6 +8997,17 @@
     "id": "966"
   },
   {
+    "shop_price": "1",
+    "ge_buy_limit": "1000",
+    "examine": "A rock.",
+    "grand_exchange_price": "1",
+    "durability": null,
+    "name": "Rock",
+    "tradeable": "false",
+    "archery_ticket_price": "0",
+    "id": "968"
+  },
+  {
     "shop_price": "15",
     "ge_buy_limit": "100",
     "examine": "Used for making notes.",
@@ -71809,6 +71820,16 @@
     "archery_ticket_price": "0",
     "destroy": "true",
     "id": "7967"
+  },
+  {
+    "destroy_message": "You can get another scroll by asking King Vargas of Miscellania to write one.",
+    "shop_price": "10",
+    "examine": "An official-looking scroll.",
+    "durability": null,
+    "name": "Scroll",
+    "destroy": "true",
+    "weight": "0.01",
+    "id": "7968"
   },
   {
     "examine": "A beam with a pulley attached.",
