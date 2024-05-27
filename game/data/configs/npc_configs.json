@@ -7265,7 +7265,7 @@
     "id": "489",
     "name": "Goblin guard",
     "examine": "He doesn't look like he'd trust his own mother.",
-    "lifepoints": "28",
+    "lifepoints": "43",
     "attack_level": "20",
     "strength_level": "20",
     "defence_level": "20",
@@ -60819,7 +60819,8 @@
     "defence_animation": "0",
     "range_animation": "0",
     "magic_animation": "0",
-    "death_animation": "0"
+    "death_animation": "0",
+    "respawn_delay": "60"
   },
   {
     "id": "6123",
@@ -60868,6 +60869,7 @@
   {
     "id": "6126",
     "name": "Goblin",
+    "examine": "An ugly green creature.",
     "lifepoints": "10",
     "attack_level": "1",
     "strength_level": "1",
