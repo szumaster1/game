@@ -450,12 +450,6 @@
     "tabIndex": "2"
   },
   {
-    "id": "295",
-    "interfaceType": "1",
-    "walkable": "true",
-    "tabIndex": "-1"
-  },
-  {
     "id": "303",
     "interfaceType": "4",
     "walkable": "false",
