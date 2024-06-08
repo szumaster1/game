@@ -1988,14 +1988,6 @@
     "questRequirement": "Icthlarin's Little Helper"
   },
   {
-    "id": "28514",
-    "replaceId": "28518",
-    "fence": "false",
-    "metal": "true",
-    "autowalk": "true",
-    "questRequirement": "Icthlarin's Little Helper"
-  },
-  {
     "id": "21065",
     "replaceId": "21161",
     "fence": "false",
@@ -2504,6 +2496,14 @@
     "replaceId": "28410",
     "fence": "false",
     "metal": "false"
+  },
+  {
+    "id": "28514",
+    "replaceId": "28518",
+    "fence": "false",
+    "metal": "true",
+    "autowalk": "true",
+    "questRequirement": "Icthlarin's Little Helper"
   },
   {
     "id": "28589",
