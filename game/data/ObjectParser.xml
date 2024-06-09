@@ -64,5 +64,8 @@
     <ObjectAction mode="remove" id="14428" x="3070" y="3839" z="0"/>
     <ObjectAction mode="remove" id="14428" x="3071" y="3839" z="0"/>
     <ObjectAction mode="add" id="14440" x="3070" y="3839" z="0"/>
-	
+
+    <!-- Enchanted Valley - Rocks for Rock golem spawn. -->
+    <ObjectAction mode="add" id="31060" x="3025" y="4491" z="0"/>
+
 </parsing>
