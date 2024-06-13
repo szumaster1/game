@@ -137,7 +137,7 @@
   },
   {
     "examine": "A shrine to evil.",
-    "ids": "61"
+    "ids": "61, 37990"
   },
   {
     "examine": "Is there something in there?",
@@ -21282,5 +21282,21 @@
   {
     "examine": "I wouldn't like to meet him in a dark alley.",
     "ids": "20164"
+  },
+  {
+    "examine": "I wouldn't like to meet him in a dark alley.",
+    "ids": "20164"
+  },
+  {
+    "examine": "A sturdy tree with grapple marks on it.",
+    "ids": "17064"
+  },
+  {
+    "examine": "Look like a way to cross.",
+    "ids": "17056"
+  },
+  {
+    "examine": "A shrine to the glory of Saradomin.",
+    "ids": "19145,39842"
   }
 ]
