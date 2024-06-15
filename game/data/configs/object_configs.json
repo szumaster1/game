@@ -21298,5 +21298,9 @@
   {
     "examine": "A shrine to the glory of Saradomin.",
     "ids": "19145,39842"
+  },
+  {
+    "examine": "He looks a bit past it... wonder what's in his bag.",
+    "ids": "16152"
   }
 ]
