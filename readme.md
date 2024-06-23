@@ -5,7 +5,7 @@ Last update: 23/06/2024
 
 - Start the game server with `launch.bat`
 - Start the game client with `client.jar`
-- World config: [`game/worldprops/default.conf`](https://github.com/szumaster3/game/blob/main/game/worldprops/default.conf)
+- World config: [`game/worldprops/default.conf`](https://github.com/szumaster3/game/blob/master/game/worldprops/default.conf)
 
 Note: `The first turn on takes a little longer.`
 
