@@ -56,16 +56,33 @@
     <!-- Wooden Cart - Tree Gnome Stronghold bank. -->
     <ObjectAction mode="add" id="308" x="2458" y="3410" z="0" direction="e"/>
 
-    <!-- Necromancer Tower - Bed correct facing.  -->
+    <!-- Bed - Necromancer Tower - (correct facing).  -->
     <ObjectAction mode="remove" id="432" x="2669" y="3238" z="1"/>
     <ObjectAction mode="add" id="432" x="2669" y="3238" z="1" direction="n"/>
 
-    <!-- Wilderness. Fix for Lava maze fishing spots objects. -->
+    <!-- Lava maze fishing spots - Wilderness. -->
     <ObjectAction mode="remove" id="14428" x="3070" y="3839" z="0"/>
     <ObjectAction mode="remove" id="14428" x="3071" y="3839" z="0"/>
     <ObjectAction mode="add" id="14440" x="3070" y="3839" z="0"/>
 
-    <!-- Enchanted Valley - Rocks for Rock golem spawn. -->
+    <!-- Rock - Enchanted Valley. -->
     <ObjectAction mode="add" id="31060" x="3025" y="4491" z="0"/>
+
+    <!-- Lever object - Prison Pete random event area -->
+    <ObjectAction mode="remove" id="10817" x="2083" y="4460" z="0"/>
+    <ObjectAction mode="add" id="26191" x="2083" y="4460" z="0" direction="e"/>
+
+    <!-- Decorative Pillar - Prison Pete random event area -->
+    <ObjectAction mode="remove" id="11371" x="2085" y="4457" z="0"/>
+
+    <!-- Deposit Box - Prison Pete random event area -->
+    <ObjectAction mode="add" id="9398" x="2094" y="4465" z="0" direction="n"/>
+
+    <!-- Random objects - Prison Pete random event area -->
+    <ObjectAction mode="remove" id="5346" x="2088" y="4460" z="0"/>
+    <ObjectAction mode="remove" id="5346" x="2094" y="4468" z="0"/>
+    <ObjectAction mode="remove" id="5347" x="2078" y="4468" z="0"/>
+    <ObjectAction mode="remove" id="5347" x="2085" y="4472" z="0"/>
+    <ObjectAction mode="remove" id="5348" x="2078" y="4464" z="0"/>
 
 </parsing>
