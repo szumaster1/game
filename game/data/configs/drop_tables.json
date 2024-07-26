@@ -34238,12 +34238,6 @@
         "maxAmount": "50"
       },
       {
-        "minAmount": "1",
-        "weight": "6.0",
-        "id": "14661",
-        "maxAmount": "1"
-      },
-      {
         "minAmount": "200",
         "weight": "25.0",
         "id": "892",
