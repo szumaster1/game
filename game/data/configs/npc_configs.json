@@ -3872,6 +3872,11 @@
     "attack_level": "1"
   },
   {
+    "examine": "A powerful Wizard of the Knights of the Round Table.",
+    "name": "Merlin",
+    "id": "213"
+  },
+  {
     "examine": "A former Knight of the Round Table.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -4243,6 +4248,11 @@
     "range_level": "1",
     "attack_level": "1",
     "defence_animation": "6488"
+  },
+  {
+    "examine": "A powerful Wizard of the Knights of the Round Table.",
+    "name": "Merlin",
+    "id": "249"
   },
   {
     "examine": "A powerful sorceress who guards Excalibur.",
@@ -69314,6 +69324,21 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "7049",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Fit to wear the uniform?",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Ogress banker",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "7050",
     "range_level": "1",
     "attack_level": "1"
   },
