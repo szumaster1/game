@@ -27,13 +27,13 @@ else
 fi
 
 cd $SCRIPT_DIR/game
-$JAVA_CMD -jar -Xmx2G -Xms2G -jar server.jar &
+$JAVA_CMD -jar -Xmx2G -Xms2G -jar Emulator.jar &
 SERVER_PID=$!
 
 lsof -i:43595 > /dev/null
 while [ $? -eq "1" ]; do
   if [ $FIRST_RUN -ne "1" ]; then
-    echo "Still waiting for the server to start..."
+    echo "Loading, please wait..."
     sleep 2
   fi
 
@@ -41,7 +41,7 @@ while [ $? -eq "1" ]; do
 done;
 
 sleep 2
-$JAVA_CMD -Xmx1G -Xms1G -jar client.jar
+$JAVA_CMD -Xmx1G -Xms1G -jar Client.jar
 
 kill $SERVER_PID
 exit
