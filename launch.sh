@@ -27,7 +27,7 @@ else
 fi
 
 cd $SCRIPT_DIR/game
-$JAVA_CMD -jar -Xmx2G -Xms2G -jar Emulator.jar &
+$JAVA_CMD -jar -Xmx2G -Xms2G -jar server.jar &
 SERVER_PID=$!
 
 lsof -i:43595 > /dev/null
@@ -41,7 +41,7 @@ while [ $? -eq "1" ]; do
 done;
 
 sleep 2
-$JAVA_CMD -Xmx1G -Xms1G -jar Client.jar
+$JAVA_CMD -Xmx1G -Xms1G -jar client.jar
 
 kill $SERVER_PID
 exit

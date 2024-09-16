@@ -1,5 +1,5 @@
 @echo off
-title Emulator - logs
+title server logs
 
 set _JAVA_OPTIONS=
 
@@ -11,7 +11,7 @@ if %ERRORLEVEL% equ 0 (
 )
 
 pushd %~dp0\game
-  start /b %~dp0\jre\bin\java.exe -Xms2G -Xmx2G -jar Emulator.jar
+  start /b %~dp0\jre\bin\java.exe -Xms2G -Xmx2G -jar server.jar
 
 :waitserver
   netstat -an | findstr "0.0.0.0:43595" > NUL
