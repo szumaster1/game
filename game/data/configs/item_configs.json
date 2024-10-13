@@ -39157,7 +39157,7 @@
     "id": "4237"
   },
   {
-    "examine": "It's a bowl of (milky) nettle tea.",
+    "examine": "It's a bowl of nettle tea.",
     "durability": null,
     "name": "Nettle tea",
     "weight": "0.9",
@@ -41257,7 +41257,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water and harralander.",
     "grand_exchange_price": "13",
     "durability": null,
     "name": "Herb tea mix",
@@ -41276,7 +41276,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water and guam.",
     "grand_exchange_price": "13",
     "durability": null,
     "name": "Herb tea mix",
@@ -41295,7 +41295,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water and marrentill.",
     "grand_exchange_price": "19",
     "durability": null,
     "name": "Herb tea mix",
@@ -41314,7 +41314,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water, harralander and marrentill.",
     "grand_exchange_price": "19",
     "durability": null,
     "name": "Herb tea mix",
@@ -41333,7 +41333,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water, harralander and guam.",
     "grand_exchange_price": "17",
     "durability": null,
     "name": "Herb tea mix",
@@ -41352,7 +41352,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water and 2 doses of guam.",
     "grand_exchange_price": "18",
     "durability": null,
     "name": "Herb tea mix",
@@ -41371,7 +41371,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water, guam and marrentill.",
     "grand_exchange_price": "18",
     "durability": null,
     "name": "Herb tea mix",
@@ -41390,7 +41390,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water, harralander, marrentill and guam.",
     "grand_exchange_price": "46",
     "durability": null,
     "name": "Herb tea mix",
@@ -41409,7 +41409,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water, 2 doses of guam and marrentill.",
     "grand_exchange_price": "41",
     "durability": null,
     "name": "Herb tea mix",
@@ -41428,7 +41428,7 @@
   },
   {
     "ge_buy_limit": "100",
-    "examine": "See article",
+    "examine": "An unfinished herb tea made up of water, 2 doses of guam and harralander.",
     "grand_exchange_price": "43",
     "durability": null,
     "name": "Herb tea mix",
@@ -70376,7 +70376,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "A nice cup of tea.",
+    "examine": "A nice cup of nettle tea.",
     "grand_exchange_price": "30",
     "durability": null,
     "name": "Cup of tea",
@@ -70387,7 +70387,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "A nice cup of tea.",
+    "examine": "A milky cup of nettle tea.",
     "grand_exchange_price": "30",
     "durability": null,
     "name": "Cup of tea",
@@ -70405,7 +70405,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "A nice cup of tea.",
+    "examine": "Some nettle tea in a porcelain cup.",
     "grand_exchange_price": "30",
     "durability": null,
     "name": "Cup of tea",
@@ -70416,7 +70416,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "A nice cup of tea.",
+    "examine": "Some milky nettle tea in a porcelain cup.",
     "grand_exchange_price": "30",
     "durability": null,
     "name": "Cup of tea",
