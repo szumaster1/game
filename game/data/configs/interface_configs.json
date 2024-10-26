@@ -397,7 +397,25 @@
   },
   {
     "id": "236",
-    "interfaceType": "3",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "237",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "238",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "239",
+    "interfaceType": "1",
     "walkable": "false",
     "tabIndex": "-1"
   },
@@ -432,6 +450,36 @@
     "tabIndex": "-1"
   },
   {
+    "id": "245",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "246",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "247",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "248",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "249",
+    "interfaceType": "1",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
     "id": "256",
     "interfaceType": "8",
     "walkable": "true",
@@ -452,6 +500,12 @@
   {
     "id": "263",
     "interfaceType": "1",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "263",
+    "interfaceType": "8",
     "walkable": "true",
     "tabIndex": "-1"
   },
@@ -805,6 +859,24 @@
   },
   {
     "id": "554",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "555",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "556",
+    "interfaceType": "4",
+    "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "557",
     "interfaceType": "4",
     "walkable": "false",
     "tabIndex": "-1"
