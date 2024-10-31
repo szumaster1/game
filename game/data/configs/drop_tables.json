@@ -42457,17 +42457,17 @@
     ],
     "charm": [],
     "ids": "5593",
-    "description": "",
+    "description": "Frogeel - Creature Creation.",
     "main": [
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10877",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10859",
         "maxAmount": "1"
       },
@@ -42502,17 +42502,17 @@
     ],
     "charm": [],
     "ids": "5594",
-    "description": "",
+    "description": "Spidine - Creature Creation.",
     "main": [
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10879",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10859",
         "maxAmount": "1"
       }
@@ -42541,17 +42541,17 @@
     ],
     "charm": [],
     "ids": "5595",
-    "description": "",
+    "description": "Swordchick - Creature Creation.",
     "main": [
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10859",
         "maxAmount": "1"
       },
       {
         "minAmount": "4",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "2138",
         "maxAmount": "4"
       },
@@ -42563,7 +42563,7 @@
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10880",
         "maxAmount": "1"
       }
@@ -42586,17 +42586,17 @@
     ],
     "charm": [],
     "ids": "5596",
-    "description": "",
+    "description": "Jubster - Creature Creation.",
     "main": [
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10881",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10859",
         "maxAmount": "1"
       }
@@ -42625,17 +42625,17 @@
     ],
     "charm": [],
     "ids": "5597",
-    "description": "",
+    "description": "Newtroost - Creature Creation.",
     "main": [
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10882",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10859",
         "maxAmount": "1"
       }
@@ -42658,17 +42658,17 @@
     ],
     "charm": [],
     "ids": "5603",
-    "description": "",
+    "description": "Unicow - Creature Creation.",
     "main": [
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10878",
         "maxAmount": "1"
       },
       {
         "minAmount": "1",
-        "weight": "5.0",
+        "weight": "25.0",
         "id": "10859",
         "maxAmount": "1"
       }
