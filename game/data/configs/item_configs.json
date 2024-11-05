@@ -5704,7 +5704,7 @@
   },
   {
     "shop_price": "35",
-    "examine": "Allows you to rest in the luxurious Paramayer&#91;sic&#93; Inn.",
+    "examine": "Allows you to rest in the luxurious Paramayer Inn.",
     "durability": null,
     "name": "Paramaya ticket",
     "archery_ticket_price": "0",
@@ -5712,7 +5712,7 @@
   },
   {
     "shop_price": "35",
-    "examine": "Allows you to rest in the luxurious Paramayer&#91;sic&#93; Inn.",
+    "examine": "Allows you to rest in the luxurious Paramayer Inn.",
     "durability": null,
     "name": "Paramaya ticket",
     "archery_ticket_price": "0",
@@ -18751,7 +18751,7 @@
   {
     "shop_price": "73",
     "ge_buy_limit": "25000",
-    "examine": "A plant cultivated for fibres (ground); I should use this with a spinning wheel (item).",
+    "examine": "I should use this with a spinning wheel.",
     "grand_exchange_price": "73",
     "durability": null,
     "name": "Flax",
@@ -19028,7 +19028,7 @@
     "id": "1807"
   },
   {
-    "examine": "Some (colour) thread found at the murder scene.",
+    "examine": "Some red thread found at the murder scene.",
     "durability": null,
     "name": "Criminal's thread",
     "tradeable": "false",
@@ -19037,7 +19037,7 @@
     "id": "1808"
   },
   {
-    "examine": "Some (colour) thread found at the murder scene.",
+    "examine": "Some green thread found at the murder scene.",
     "durability": null,
     "name": "Criminal's thread",
     "tradeable": "false",
@@ -19046,7 +19046,7 @@
     "id": "1809"
   },
   {
-    "examine": "Some (colour) thread found at the murder scene.",
+    "examine": "Some blue thread found at the murder scene.",
     "durability": null,
     "name": "Criminal's thread",
     "tradeable": "false",
@@ -33965,7 +33965,7 @@
   {
     "requirements": "{1,40}",
     "ge_buy_limit": "2",
-    "examine": "Rune platebody with complete gold trim &amp; plating.",
+    "examine": "Rune platebody with complete gold trim & plating.",
     "durability": null,
     "weight": "10",
     "absorb": "3,0,6",
@@ -48968,7 +48968,7 @@
     "id": "5419"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There is 1 potato in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(1)",
@@ -48985,7 +48985,7 @@
     "id": "5421"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 2 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(2)",
@@ -49002,7 +49002,7 @@
     "id": "5423"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 3 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(3)",
@@ -49019,7 +49019,7 @@
     "id": "5425"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 4 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(4)",
@@ -49036,7 +49036,7 @@
     "id": "5427"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 5 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(5)",
@@ -49053,7 +49053,7 @@
     "id": "5429"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 6 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(6)",
@@ -49070,7 +49070,7 @@
     "id": "5431"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 7 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(7)",
@@ -49087,7 +49087,7 @@
     "id": "5433"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 8 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(8)",
@@ -49104,7 +49104,7 @@
     "id": "5435"
   },
   {
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 9 potatoes in this sack.",
     "grand_exchange_price": "1276",
     "durability": null,
     "name": "Potatoes(9)",
@@ -49122,7 +49122,7 @@
   },
   {
     "ge_buy_limit": "1000",
-    "examine": "There are &lt;number of potatoes&gt; in this sack.",
+    "examine": "There are 10 potatoes in this sack.",
     "grand_exchange_price": "1052",
     "durability": null,
     "name": "Potatoes(10)",
@@ -49141,7 +49141,7 @@
     "id": "5439"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There is 1 onion in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(1)",
@@ -49158,7 +49158,7 @@
     "id": "5441"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 2 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(2)",
@@ -49175,7 +49175,7 @@
     "id": "5443"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 3 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(3)",
@@ -49192,7 +49192,7 @@
     "id": "5445"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 4 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(4)",
@@ -49209,7 +49209,7 @@
     "id": "5447"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 5 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(5)",
@@ -49226,7 +49226,7 @@
     "id": "5449"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 6 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(6)",
@@ -49243,7 +49243,7 @@
     "id": "5451"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 7 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(7)",
@@ -49260,7 +49260,7 @@
     "id": "5453"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 8 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(8)",
@@ -49277,7 +49277,7 @@
     "id": "5455"
   },
   {
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 9 onions in this sack.",
     "grand_exchange_price": "589",
     "durability": null,
     "name": "Onions(9)",
@@ -49295,7 +49295,7 @@
   },
   {
     "ge_buy_limit": "1000",
-    "examine": "There are/is (1-10) onion(s) in this sack.",
+    "examine": "There are 10 onions in this sack.",
     "grand_exchange_price": "489",
     "durability": null,
     "name": "Onions(10)",
@@ -49314,7 +49314,7 @@
     "id": "5459"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There is 1 cabbage in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(1)",
@@ -49330,7 +49330,7 @@
     "id": "5461"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 2 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(2)",
@@ -49346,7 +49346,7 @@
     "id": "5463"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 3 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(3)",
@@ -49362,7 +49362,7 @@
     "id": "5465"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 4 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(4)",
@@ -49378,7 +49378,7 @@
     "id": "5467"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 5 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(5)",
@@ -49394,7 +49394,7 @@
     "id": "5469"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 6 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(6)",
@@ -49410,7 +49410,7 @@
     "id": "5471"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 7 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(7)",
@@ -49426,7 +49426,7 @@
     "id": "5473"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 8 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(8)",
@@ -49442,7 +49442,7 @@
     "id": "5475"
   },
   {
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 9 cabbages in this sack.",
     "grand_exchange_price": "1304",
     "durability": null,
     "name": "Cabbages(9)",
@@ -49459,7 +49459,7 @@
   },
   {
     "ge_buy_limit": "1000",
-    "examine": "There are &lt;number of cabbages&gt; in this sack.",
+    "examine": "There are 10 cabbages in this sack.",
     "grand_exchange_price": "917",
     "durability": null,
     "name": "Cabbages(10)",
@@ -49477,7 +49477,7 @@
     "id": "5479"
   },
   {
-    "examine": "An apple tree has been sown (and watered) in this plant pot.",
+    "examine": "An apple tree seed has been sown in this plant pot.",
     "durability": null,
     "name": "Apple seedling",
     "weight": "0.9",
@@ -49485,7 +49485,7 @@
     "id": "5480"
   },
   {
-    "examine": "A banana tree seed has been sown and watered in this plant pot.",
+    "examine": "A banana tree seed has been sown in this plant pot.",
     "durability": null,
     "name": "Banana seedling",
     "weight": "0.9",
@@ -49493,14 +49493,14 @@
     "id": "5481"
   },
   {
-    "examine": "An orange tree seed has been sown (and watered)in this plant pot.",
+    "examine": "An orange tree seed has been sown in this plant pot.",
     "durability": null,
     "name": "Orange seedling",
     "archery_ticket_price": "0",
     "id": "5482"
   },
   {
-    "examine": "A curry seed has been sown and watered in this plant pot.",
+    "examine": "A curry seed has been sown in this plant pot.",
     "durability": null,
     "name": "Curry seedling",
     "weight": "0.9",
@@ -49508,7 +49508,7 @@
     "id": "5483"
   },
   {
-    "examine": "A pineapple tree has been sown (and watered) in this plant pot.",
+    "examine": "A pineapple tree has been sown in this plant pot.",
     "durability": null,
     "name": "Pineapple seedling",
     "weight": "0.9",
@@ -49532,7 +49532,7 @@
     "id": "5486"
   },
   {
-    "examine": "A calquat tree has been sown (and watered) in this plant pot.",
+    "examine": "A calquat tree has been sown and watered in this plant pot.",
     "durability": null,
     "name": "Calquat seedling",
     "weight": "0.9",
@@ -49540,7 +49540,7 @@
     "id": "5487"
   },
   {
-    "examine": "An apple tree has been sown (and watered) in this plant pot.",
+    "examine": "An apple tree has been sown and watered in this plant pot.",
     "durability": null,
     "name": "Apple seedling",
     "weight": "0.9",
@@ -49556,7 +49556,7 @@
     "id": "5489"
   },
   {
-    "examine": "An orange tree seed has been sown (and watered)in this plant pot.",
+    "examine": "An orange tree seed has been sown and watered in this plant pot.",
     "durability": null,
     "name": "Orange seedling",
     "archery_ticket_price": "0",
@@ -49571,7 +49571,7 @@
     "id": "5491"
   },
   {
-    "examine": "A pineapple tree has been sown (and watered) in this plant pot.",
+    "examine": "A pineapple tree has been sown and watered in this plant pot.",
     "durability": null,
     "name": "Pineapple seedling",
     "weight": "0.9",
@@ -49595,7 +49595,7 @@
     "id": "5494"
   },
   {
-    "examine": "A calquat tree has been sown (and watered) in this plant pot.",
+    "examine": "A calquat tree has been sown and watered in this plant pot.",
     "durability": null,
     "name": "Calquat seedling",
     "weight": "0.9",
@@ -68892,7 +68892,7 @@
   },
   {
     "shop_price": "140",
-    "examine": "Used for small missile spells.",
+    "examine": "Used for low level missile spells.",
     "grand_exchange_price": "65",
     "durability": null,
     "name": "Chaos rune",
@@ -68983,6 +68983,7 @@
     "id": "7569"
   },
   {
+    "examine": "The burnt meat of a Jubbly bird.",
     "durability": null,
     "name": "Burnt jubbly",
     "tradeable": "true",
@@ -69050,6 +69051,13 @@
     "id": "7579"
   },
   {
+    "examine": "",
+    "durability": null,
+    "name": "",
+    "archery_ticket_price": "0",
+    "id": "7580"
+  },
+  {
     "examine": "Your hellish pet cat!!",
     "durability": null,
     "name": "Overgrown hellcat",
@@ -69069,6 +69077,13 @@
     "name": "Hell-kitten",
     "archery_ticket_price": "0",
     "id": "7583"
+  },
+  {
+    "examine": "",
+    "durability": null,
+    "name": "",
+    "archery_ticket_price": "0",
+    "id": "7584"
   },
   {
     "examine": "Your hellish pet cat!!",
@@ -69324,7 +69339,7 @@
     "id": "7620"
   },
   {
-    "examine": "A bucket partially filled with rubble. / A bucket totally filled with rubble.",
+    "examine": "A bucket partially filled with rubble.",
     "durability": null,
     "name": "Bucket of rubble",
     "weight": "2",
@@ -69332,7 +69347,7 @@
     "id": "7622"
   },
   {
-    "examine": "A bucket partially filled with rubble. / A bucket totally filled with rubble.",
+    "examine": "A bucket almost full of rubble.",
     "durability": null,
     "name": "Bucket of rubble",
     "weight": "2",
@@ -69340,7 +69355,7 @@
     "id": "7624"
   },
   {
-    "examine": "A bucket partially filled with rubble. / A bucket totally filled with rubble.",
+    "examine": "A bucket totally filled with rubble.",
     "durability": null,
     "name": "Bucket of rubble",
     "weight": "2",

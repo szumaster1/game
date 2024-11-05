@@ -1014,12 +1014,6 @@
     "metal": "false"
   },
   {
-    "id": "4251",
-    "replaceId": "4250",
-    "fence": "false",
-    "metal": "false"
-  },
-  {
     "id": "4629",
     "replaceId": "4630",
     "fence": "false",
@@ -2280,12 +2274,6 @@
   {
     "id": "25718",
     "replaceId": "25719",
-    "fence": "false",
-    "metal": "false"
-  },
-  {
-    "id": "25748",
-    "replaceId": "25791",
     "fence": "false",
     "metal": "false"
   },
