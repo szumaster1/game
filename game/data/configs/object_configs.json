@@ -21322,5 +21322,29 @@
   {
     "examine": "You can build a stairs here.",
     "ids": "15380,15390"
+  },
+  {
+    "examine": "More strange liquids and tools.",
+    "ids": "21934,21935,21937"
+  },
+  {
+    "examine": "So sad... what a waste of life.",
+    "ids": "21931"
+  },
+  {
+    "examine": "Reminds me of the dentist.",
+    "ids": "21936"
+  },
+  {
+    "examine": "A well of life.",
+    "ids": "21902,21904"
+  },
+  {
+    "examine": "A table with shackles, one size fits all!",
+    "ids": "21932"
+  },
+  {
+    "examine": "Cascading retorts, function unknown.",
+    "ids": "21933"
   }
 ]
