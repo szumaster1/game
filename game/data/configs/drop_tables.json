@@ -59072,6 +59072,20 @@
       {
         "minAmount": "1",
         "weight": "1.0",
+        "id": "592",
+        "maxAmount": "1"
+      }
+    ],
+    "charm": [],
+    "ids": "8127",
+    "description": "Dark energy core (level-75)",
+    "main": []
+  },
+  {
+    "default": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
         "id": "526",
         "maxAmount": "1"
       }
@@ -59099,7 +59113,7 @@
     "default": [],
     "charm": [],
     "ids": "2494",
-    "description": "Mosquito Swarm (3)",
+    "description": "Mosquito Swarm (level-3)",
     "main": [
       {
         "minAmount": "3",
@@ -59113,7 +59127,7 @@
     "default": [],
     "charm": [],
     "ids": "2495",
-    "description": "Mosquito Swarm (5)",
+    "description": "Mosquito Swarm (level-5)",
     "main": [
       {
         "minAmount": "5",
