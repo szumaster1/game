@@ -59178,5 +59178,169 @@
     "ids": "2503",
     "description": "White Broodoo Victim (Tai Bwo Wannai Cleanup activity)",
     "main": []
+  },
+  {
+    "default": [],
+    "charm": [],
+    "ids": "7845,7846",
+    "description": "",
+    "main": [
+      {
+        "minAmount": "1",
+        "weight": "5.0",
+        "id": "7114",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "15",
+        "weight": "10.0",
+        "id": "2358",
+        "maxAmount": "15"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7110",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7122",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7128",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7134",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13358",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13360",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13362",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7116",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7126",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7132",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7138",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13364",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13366",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13368",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7112",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7124",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7130",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "7136",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "8924",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "8926",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "8998",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "9000",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.0",
+        "id": "8951",
+        "maxAmount": "3"
+      },
+      {
+        "minAmount": "1",
+        "weight": "10.0",
+        "id": "13355",
+        "maxAmount": "1"
+      }
+    ]
   }
 ]
