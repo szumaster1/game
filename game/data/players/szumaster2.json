@@ -1065,7 +1065,7 @@
     "blastCoal": [],
     "timers": {
       "antimacro": {
-        "ticksRemaining": "481"
+        "ticksRemaining": "387"
       }
     },
     "useSecondaryBank": false,
@@ -4715,7 +4715,7 @@
     },
     {
       "type": "long",
-      "value": "1731756155514",
+      "value": "1731843567441",
       "key": "last-wealth-check"
     },
     {
