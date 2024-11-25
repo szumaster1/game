@@ -20936,10 +20936,6 @@
     "ids": "42000"
   },
   {
-    "examine": "Contains traces of Summoning energy.",
-    "ids": "42004"
-  },
-  {
     "examine": "You can build a chapel window here.",
     "ids": "13730"
   },
@@ -21346,5 +21342,9 @@
   {
     "examine": "Cascading retorts, function unknown.",
     "ids": "21933"
+  },
+  {
+    "examine": "A pillar I could stand on.",
+    "ids": "20872,20873,20874,20875,20876,20877,20878,20879,20880,20881,20882,20883,20884,20885,20886,20887,20888,20889"
   }
 ]
