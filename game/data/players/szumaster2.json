@@ -778,6 +778,10 @@
         "questStage": "100"
       },
       {
+        "questId": "73",
+        "questStage": "0"
+      },
+      {
         "questId": "74",
         "questStage": "0"
       },
@@ -1065,7 +1069,7 @@
     "blastCoal": [],
     "timers": {
       "antimacro": {
-        "ticksRemaining": "387"
+        "ticksRemaining": "50"
       }
     },
     "useSecondaryBank": false,
@@ -1085,12 +1089,6 @@
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "2",
-        "id": "3863"
-      },
-      {
-        "amount": "1",
-        "charge": "1000",
         "slot": "3",
         "id": "772"
       },
@@ -1103,6 +1101,12 @@
       {
         "amount": "1",
         "charge": "1000",
+        "slot": "5",
+        "id": "1171"
+      },
+      {
+        "amount": "1",
+        "charge": "1000",
         "slot": "7",
         "id": "1013"
       },
@@ -1110,13 +1114,13 @@
         "amount": "1",
         "charge": "1000",
         "slot": "9",
-        "id": "11122"
+        "id": "11124"
       },
       {
         "amount": "1",
         "charge": "1000",
         "slot": "12",
-        "id": "2570"
+        "id": "13562"
       }
     ],
     "bankTabs": [
@@ -1173,10 +1177,16 @@
         "id": "2683"
       },
       {
-        "amount": "2",
+        "amount": "1",
         "charge": "1000",
         "slot": "1",
-        "id": "556"
+        "id": "2556"
+      },
+      {
+        "amount": "1",
+        "charge": "1000",
+        "slot": "2",
+        "id": "11193"
       }
     ],
     "blastOre": [],
@@ -1294,7 +1304,7 @@
         "id": "558"
       },
       {
-        "amount": "3155",
+        "amount": "3157",
         "charge": "1000",
         "slot": "11",
         "id": "556"
@@ -2890,7 +2900,7 @@
         "id": "2126"
       },
       {
-        "amount": "113",
+        "amount": "112",
         "charge": "1000",
         "slot": "277",
         "id": "2552"
@@ -2926,7 +2936,7 @@
         "id": "2560"
       },
       {
-        "amount": "2",
+        "amount": "1",
         "charge": "1000",
         "slot": "283",
         "id": "11194"
@@ -2968,7 +2978,7 @@
         "id": "3857"
       },
       {
-        "amount": "2",
+        "amount": "3",
         "charge": "1000",
         "slot": "290",
         "id": "3863"
@@ -3046,7 +3056,7 @@
         "id": "1731"
       },
       {
-        "amount": "1",
+        "amount": "2",
         "charge": "1000",
         "slot": "303",
         "id": "2570"
@@ -3676,7 +3686,7 @@
         "id": "12163"
       },
       {
-        "amount": "5",
+        "amount": "4",
         "charge": "1000",
         "slot": "408",
         "id": "1171"
@@ -3847,149 +3857,143 @@
         "amount": "1",
         "charge": "1000",
         "slot": "436",
-        "id": "11124"
-      },
-      {
-        "amount": "1",
-        "charge": "1000",
-        "slot": "437",
         "id": "11246"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "438",
+        "slot": "437",
         "id": "9704"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "439",
+        "slot": "438",
         "id": "10438"
       },
       {
         "amount": "6",
         "charge": "1000",
-        "slot": "440",
+        "slot": "439",
         "id": "9416"
       },
       {
         "amount": "195",
         "charge": "1000",
-        "slot": "441",
+        "slot": "440",
         "id": "866"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "442",
+        "slot": "441",
         "id": "9419"
       },
       {
         "amount": "200",
         "charge": "1000",
-        "slot": "443",
+        "slot": "442",
         "id": "13727"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "444",
+        "slot": "443",
         "id": "1275"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "445",
+        "slot": "444",
         "id": "6184"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "446",
+        "slot": "445",
         "id": "10382"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "447",
+        "slot": "446",
         "id": "1133"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "448",
+        "slot": "447",
         "id": "1317"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "449",
+        "slot": "448",
         "id": "6965"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "450",
+        "slot": "449",
         "id": "10452"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "451",
+        "slot": "450",
         "id": "2550"
       },
       {
         "amount": "10",
         "charge": "1000",
-        "slot": "452",
+        "slot": "451",
         "id": "1637"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "453",
+        "slot": "452",
         "id": "5698"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "454",
+        "slot": "453",
         "id": "1536"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "455",
+        "slot": "454",
         "id": "1791"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "456",
-        "id": "13562"
-      },
-      {
-        "amount": "1",
-        "charge": "1000",
-        "slot": "457",
+        "slot": "455",
         "id": "2497"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "458",
+        "slot": "456",
         "id": "4587"
       },
       {
         "amount": "1",
         "charge": "1000",
-        "slot": "459",
+        "slot": "457",
         "id": "4151"
+      },
+      {
+        "amount": "1",
+        "charge": "1000",
+        "slot": "458",
+        "id": "11124"
       }
     ],
     "blastBars": [],
-    "location": "3094,3491,0",
+    "location": "1704,5599,0",
     "bankSecondary": [],
     "varp": [
       {
@@ -4195,7 +4199,7 @@
             false,
             true,
             false,
-            false,
+            true,
             false,
             false,
             true,
@@ -4710,12 +4714,12 @@
     },
     {
       "type": "long",
-      "value": "7045468",
+      "value": "7049673",
       "key": "last-wealth"
     },
     {
       "type": "long",
-      "value": "1731843567441",
+      "value": "1732595019485",
       "key": "last-wealth-check"
     },
     {
