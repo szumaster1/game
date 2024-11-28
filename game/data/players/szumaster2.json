@@ -1069,7 +1069,7 @@
     "blastCoal": [],
     "timers": {
       "antimacro": {
-        "ticksRemaining": "50"
+        "ticksRemaining": "7160"
       }
     },
     "useSecondaryBank": false,
@@ -1187,6 +1187,12 @@
         "charge": "1000",
         "slot": "2",
         "id": "11193"
+      },
+      {
+        "amount": "1",
+        "charge": "1000",
+        "slot": "3",
+        "id": "6183"
       }
     ],
     "blastOre": [],
@@ -3993,7 +3999,7 @@
       }
     ],
     "blastBars": [],
-    "location": "1704,5599,0",
+    "location": "1697,5603,0",
     "bankSecondary": [],
     "varp": [
       {
@@ -4719,7 +4725,7 @@
     },
     {
       "type": "long",
-      "value": "1732595019485",
+      "value": "1732655728886",
       "key": "last-wealth-check"
     },
     {
