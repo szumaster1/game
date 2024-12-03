@@ -5400,7 +5400,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "Empty: It's a bailing bucket.  Full: It's a bailing bucket full of salty water.",
+    "examine": "It's a bailing bucket.",
     "durability": null,
     "name": "Bailing bucket",
     "tradeable": "true",
@@ -5417,7 +5417,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "Empty: It's a bailing bucket.  Full: It's a bailing bucket full of salty water.",
+    "examine": "It's a bailing bucket full of salty water.",
     "durability": null,
     "name": "Bailing bucket",
     "tradeable": "true",
@@ -7248,7 +7248,7 @@
   },
   {
     "destroy_message": "You can reclaim this item from the place you found it.",
-    "examine": "A model of a Karamja warship",
+    "examine": "A model of a Karamja warship.",
     "durability": null,
     "name": "War ship",
     "weight": "0.01",
@@ -38636,7 +38636,7 @@
     "alchemizable": "true"
   },
   {
-    "examine": "No brain: A gruesome, decapitated head, whose brain has rotted away. Brain: A gruesome, decapitated head - its eyes stare lifelessly at nothing.",
+    "examine": "A gruesome, decapitated head, whose brain has rotted away.",
     "durability": null,
     "name": "Decapitated head",
     "weight": "3",
@@ -38645,7 +38645,7 @@
     "alchemizable": "true"
   },
   {
-    "examine": "No brain: A gruesome, decapitated head, whose brain has rotted away. Brain: A gruesome, decapitated head - its eyes stare lifelessly at nothing.",
+    "examine": "A gruesome, decapitated head - its eyes stare lifelessly at nothing.",
     "durability": null,
     "name": "Decapitated head",
     "weight": "3",
@@ -41783,7 +41783,7 @@
     "requirements": "{12,11}",
     "shop_price": "10",
     "ge_buy_limit": "100",
-    "examine": "Empty: An oil lamp with no oil in it.Filled: Not the genie sort.",
+    "examine": "Not the genie sort.",
     "grand_exchange_price": "1575",
     "durability": null,
     "name": "Oil lamp",
@@ -41803,7 +41803,7 @@
   },
   {
     "shop_price": "10",
-    "examine": "Empty: An oil lamp with no oil in it.Filled: Not the genie sort.",
+    "examine": "A flickering candle in a glass cage.",
     "grand_exchange_price": "2",
     "durability": null,
     "name": "Oil lamp",
@@ -41816,7 +41816,7 @@
     "requirements": "{12,11}",
     "shop_price": "10",
     "ge_buy_limit": "100",
-    "examine": "Empty: An oil lamp with no oil in it.Filled: Not the genie sort.",
+    "examine": "An oil lamp with no oil in it.",
     "grand_exchange_price": "2",
     "durability": null,
     "name": "Oil lamp",
@@ -41837,7 +41837,7 @@
   {
     "requirements": "{4,11}",
     "ge_buy_limit": "100",
-    "examine": "Lit: A flickering candle in a glass cage.Unlit: a candle in a glass cage.Without candle: Put a candle in to complete it.",
+    "examine": "A candle in a glass cage.",
     "grand_exchange_price": "39",
     "durability": null,
     "name": "Candle lantern",
@@ -41858,7 +41858,7 @@
   {
     "requirements": "{4,11}",
     "ge_buy_limit": "100",
-    "examine": "Lit: A flickering candle in a glass cage.Unlit: a candle in a glass cage.Without candle: Put a candle in to complete it.",
+    "examine": "A candle in a glass cage.Without candle: Put a candle in to complete it.",
     "grand_exchange_price": "431",
     "durability": null,
     "name": "Candle lantern",
@@ -41877,7 +41877,7 @@
     "id": "4530"
   },
   {
-    "examine": "Lit: A flickering candle in a glass cage.Unlit: a candle in a glass cage.Without candle: Put a candle in to complete it.",
+    "examine": "A flickering candle in a glass cage",
     "grand_exchange_price": "1",
     "durability": null,
     "name": "Candle lantern",
@@ -41888,7 +41888,7 @@
   },
   {
     "requirements": "{4,11}",
-    "examine": "Lit: A flickering candle in a glass cage.Unlit: a candle in a glass cage.Without candle: Put a candle in to complete it.",
+    "examine": "Put a candle in to complete it.",
     "grand_exchange_price": "1",
     "durability": null,
     "name": "Candle lantern",
@@ -41905,7 +41905,7 @@
     "id": "4533"
   },
   {
-    "examine": "Lit: A flickering candle in a glass cage.Unlit: a candle in a glass cage.Without candle: Put a candle in to complete it.",
+    "examine": "A flickering candle in a glass cage.",
     "grand_exchange_price": "1",
     "durability": null,
     "name": "Candle lantern",
@@ -41917,7 +41917,7 @@
   {
     "requirements": "{11,26}",
     "ge_buy_limit": "100",
-    "examine": "Unfuelled: Put oil in to complete it. Unlit: An unlit oil lantern. Lit:  It lights your way through the dark places of the earth.",
+    "examine": "Put oil in to complete it",
     "grand_exchange_price": "12",
     "durability": null,
     "name": "Oil lantern",
@@ -41938,7 +41938,7 @@
   {
     "requirements": "{11,26}",
     "ge_buy_limit": "100",
-    "examine": "Unfuelled: Put oil in to complete it. Unlit: An unlit oil lantern. Lit:  It lights your way through the dark places of the earth.",
+    "examine": "An unlit oil lantern.",
     "grand_exchange_price": "218",
     "durability": null,
     "name": "Oil lantern",
@@ -41957,7 +41957,7 @@
     "id": "4538"
   },
   {
-    "examine": "Unfuelled: Put oil in to complete it. Unlit: An unlit oil lantern. Lit:  It lights your way through the dark places of the earth.",
+    "examine": "It lights your way through the dark places of the earth.",
     "grand_exchange_price": "198",
     "durability": null,
     "name": "Oil lantern",
@@ -93640,7 +93640,7 @@
   },
   {
     "destroy_message": "You can reclaim this item from the place you found it.",
-    "examine": "No brain: A gruesome, decapitated head, whose brain has rotted away. Brain: A gruesome, decapitated head - its eyes stare lifelessly at nothing.",
+    "examine": "A gruesome, decapitated head - its eyes stare lifelessly at nothing.",
     "durability": null,
     "name": "Decapitated head",
     "weight": "3",
@@ -94796,7 +94796,7 @@
   {
     "destroy_message": "You can get another cog from the old power station.",
     "shop_price": "160",
-    "examine": "A cog. Broken: A broken cog.",
+    "examine": "A cog.",
     "durability": null,
     "name": "Cog",
     "tradeable": "false",
@@ -94808,7 +94808,7 @@
   {
     "destroy_message": "You can get another cog from the old power station.",
     "shop_price": "160",
-    "examine": "A cog. Broken: A broken cog.",
+    "examine": "A broken cog.",
     "durability": null,
     "name": "Cog",
     "tradeable": "false",
@@ -94881,7 +94881,7 @@
   },
   {
     "destroy_message": "You can get another power box from the old power station.",
-    "examine": "A powerbox. Broken: A broken powerbox.",
+    "examine": "A powerbox.",
     "durability": null,
     "name": "Powerbox",
     "tradeable": "false",
@@ -94892,7 +94892,7 @@
   },
   {
     "destroy_message": "You can get another power box from the old power station.",
-    "examine": "A powerbox. Broken: A broken powerbox.",
+    "examine": "A broken powerbox.",
     "durability": null,
     "name": "Powerbox",
     "tradeable": "false",

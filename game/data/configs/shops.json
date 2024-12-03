@@ -1590,7 +1590,7 @@
     "general_store": "false",
     "id": "180",
     "title": "Legends' Guild Shop of Useful Items",
-    "stock": "{299,100,100}-{1542,5,100}-{1590,3,100}-{1052,1,100}-{2368,3,100}"
+    "stock": "{299,100,100}-{1542,5,100}-{1590,3,100}-{2368,3,100}-{1052,1,100}"
   },
   {
     "npcs": "4518",
@@ -2139,7 +2139,7 @@
     "currency": "995",
     "general_store": "false",
     "id": "251",
-    "title": "Legends Guild General Store",
+    "title": "Legends' Guild General Store",
     "stock": "{373,20,100}-{2323,5,100}-{121,3,100}-{886,500,100}"
   },
   {

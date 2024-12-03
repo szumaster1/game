@@ -31125,13 +31125,13 @@
     "examine": "A sneaky, spiny, subterranean sea-dwelling scamp.",
     "combat_style": "2",
     "melee_animation": "2868",
-    "range_animation": "2866",
+    "range_animation": "2868",
     "attack_speed": "6",
     "spell_id": "14",
     "magic_level": "65",
     "respawn_delay": "55",
     "defence_animation": "2869",
-    "magic_animation": "2866",
+    "magic_animation": "2868",
     "death_animation": "2866",
     "name": "Spinolyp",
     "defence_level": "1",
@@ -31145,18 +31145,24 @@
     "attack_level": "1"
   },
   {
+    "examine": "If I didn't know better, I'd swear there's something in there...",
+    "name": "Suspicious water",
+    "id": "2895",
+    "water_npc": true
+  },
+  {
     "agg_radius": "12",
     "examine": "A sneaky, spiny, subterranean sea-dwelling scamp.",
     "combat_style": "2",
     "melee_animation": "2868",
-    "range_animation": "2866",
+    "range_animation": "2868",
     "attack_speed": "6",
     "spell_id": "14",
     "magic_level": "65",
     "respawn_delay": "55",
     "defence_animation": "2869",
     "slayer_exp": "0",
-    "magic_animation": "2866",
+    "magic_animation": "2868",
     "death_animation": "2866",
     "name": "Spinolyp",
     "defence_level": "1",
@@ -31168,6 +31174,36 @@
     "range_level": "70",
     "projectile": "294",
     "attack_level": "1"
+  },
+  {
+    "examine": "Looks a bit lost.",
+    "name": "Father reen",
+    "id": "2897"
+  },
+  {
+    "examine": "Looks a bit lost.",
+    "name": "Father reen",
+    "id": "2898"
+  },
+  {
+    "examine": "Looks a bit lost.",
+    "name": "Father reen",
+    "id": "2899"
+  },
+  {
+    "examine": "Looks a bit lost.",
+    "name": "Father reen",
+    "id": "2900"
+  },
+  {
+    "examine": "Poorly named for such a scraggly cat.",
+    "name": "Turbogroomer",
+    "id": "2983"
+  },
+  {
+    "examine": "A sticky character.",
+    "name": "Treacle",
+    "id": "2987"
   },
   {
     "examine": "A summoned demon.",
