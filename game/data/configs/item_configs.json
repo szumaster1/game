@@ -63094,7 +63094,7 @@
     "id": "6883"
   },
   {
-    "destroy_message": "You can reclaim this item from the place you found it.",
+    "destroy_message": "The hat whispers as you destroy it. You can get another from the Entrance Guardian.",
     "examine": "A magic training arena progress hat",
     "durability": null,
     "name": "Progress hat",
@@ -63103,7 +63103,7 @@
     "equipment_slot": "0"
   },
   {
-    "destroy_message": "You can reclaim this item from the place you found it.",
+    "destroy_message": "The hat whispers as you destroy it. You can get another from the Entrance Guardian.",
     "examine": "A magic training arena progress hat",
     "durability": null,
     "name": "Progress hat",
@@ -63112,7 +63112,7 @@
     "equipment_slot": "0"
   },
   {
-    "destroy_message": "You can reclaim this item from the place you found it.",
+    "destroy_message": "The hat whispers as you destroy it. You can get another from the Entrance Guardian.",
     "examine": "A magic training arena progress hat",
     "durability": null,
     "name": "Progress hat",
@@ -99854,6 +99854,7 @@
     "equipment_slot": "0"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(8)",
     "tradeable": "false",
@@ -99863,6 +99864,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(7)",
     "tradeable": "false",
@@ -99872,6 +99874,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(6)",
     "tradeable": "false",
@@ -99881,6 +99884,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(5)",
     "tradeable": "false",
@@ -99890,6 +99894,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(4)",
     "tradeable": "false",
@@ -99899,6 +99904,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(3)",
     "tradeable": "false",
@@ -99908,6 +99914,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(2)",
     "tradeable": "false",
@@ -99917,6 +99924,7 @@
     "equipment_slot": "2"
   },
   {
+    "examine": "A seal storing the power of the Void Knights.",
     "durability": null,
     "name": "Void seal(1)",
     "tradeable": "false",

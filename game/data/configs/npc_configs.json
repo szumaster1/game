@@ -6278,6 +6278,26 @@
     "attack_level": "150"
   },
   {
+    "examine": "Dead but not gone.",
+    "name": "'Bird's-Eye' Jack",
+    "id": "431"
+  },
+  {
+    "examine": "He's a ranger - light and accurate.",
+    "name": "Cyrisus",
+    "id": "432"
+  },
+  {
+    "examine": "He's a meleer - prepared to go face-to-face.",
+    "name": "Cyrisus",
+    "id": "433"
+  },
+  {
+    "examine": "He's a mage - mystical and calculating.",
+    "name": "Cyrisus",
+    "id": "434"
+  },
+  {
     "examine": "I hope he's not dead!",
     "melee_animation": "0",
     "range_animation": "0",
@@ -6289,6 +6309,21 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "435",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "He's alive... just barely.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Fallen Man",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "436",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -35334,6 +35369,11 @@
     "id": "3310"
   },
   {
+    "examine": "They're going to sing to you!",
+    "name": "Zanaris choir",
+    "id": "3312"
+  },
+  {
     "examine": "An animated shrub.",
     "name": "Tanglefoot",
     "defence_level": "1",
@@ -63222,6 +63262,51 @@
     "attack_level": "1"
   },
   {
+    "examine": "Priest of the Narogoshuun tribe.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Priest",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "6483",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Priest of the Ekeleshuun tribe.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Priest",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "6484",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Priest of the Huzamogaarb tribe.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Priest",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "6485",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "He is expounding the word of the Big High War God.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -63454,7 +63539,22 @@
     "attack_level": "1"
   },
   {
-    "examine": "A very noble spider and attendant to the Queen.",
+    "examine": "Registers players for tournaments: Rank Cap 1999.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Registrar 2",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "6506",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Registers players for tournaments: Rank Cap 2499.",
     "melee_animation": "0",
     "range_animation": "0",
     "defence_animation": "0",
@@ -63527,6 +63627,19 @@
     "id": "6512",
     "range_level": "1",
     "attack_level": "1"
+  },
+  {
+    "examine": "A being of ore and minerals.",
+    "magic_animation": "0",
+    "name": "Spectator",
+    "defence_level": "1",
+    "lifepoints": "1",
+    "range_animation": "0",
+    "strength_level": "1",
+    "id": "6513",
+    "range_level": "1",
+    "attack_level": "1",
+    "defence_animation": "0"
   },
   {
     "examine": "A being of ore and minerals.",
@@ -75121,6 +75234,285 @@
     "id": "7872"
   },
   {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7873",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7874",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7875",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7876",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7877",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7878",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,513,512",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "magic_level": "6",
+    "respawn_delay": "18",
+    "defence_animation": "404",
+    "weakness": "9",
+    "slayer_exp": "0",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Man",
+    "defence_level": "5",
+    "lifepoints": "7",
+    "strength_level": "2",
+    "id": "7879",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "5"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,506,505",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "defence_animation": "404",
+    "weakness": "9",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Woman",
+    "defence_level": "3",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "7880",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "3"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,506,505",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "defence_animation": "404",
+    "weakness": "9",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Woman",
+    "defence_level": "3",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "7881",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "3"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,506,505",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "defence_animation": "404",
+    "weakness": "9",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Woman",
+    "defence_level": "3",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "7882",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "3"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,506,505",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "defence_animation": "404",
+    "weakness": "9",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Woman",
+    "defence_level": "3",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "7883",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "3"
+  },
+  {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,506,505",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "defence_animation": "404",
+    "weakness": "9",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Woman",
+    "defence_level": "3",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "7884",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "3"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman Dante",
+    "id": "7885"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman DeShawn",
+    "id": "7886"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman Brawn",
+    "id": "7887"
+  },
+  {
+    "examine": "He tries to keep order around Lumbridge.",
+    "name": "Sergeant Abram",
+    "id": "7888"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman Pazel",
+    "id": "7889"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman Peale",
+    "id": "7890"
+  },
+  {
     "examine": "A melee training dummy",
     "melee_animation": "94",
     "range_animation": "0",
@@ -75135,6 +75527,78 @@
     "lifepoints": "15",
     "strength_level": "1",
     "id": "7891",
+    "aggressive": "true",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "A shadowy sort of entity",
+    "slayer_task": "73",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "magic_level": "1",
+    "respawn_delay": "60",
+    "defence_animation": "0",
+    "weakness": "3",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Loar Shadow",
+    "defence_level": "26",
+    "lifepoints": "38",
+    "strength_level": "30",
+    "id": "7901",
+    "aggressive": "true",
+    "range_level": "1",
+    "attack_level": "45"
+  },
+  {
+    "examine": "He tries to keep order around Lumbridge.",
+    "name": "Sergeant Abram",
+    "id": "7902"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman Pazel",
+    "id": "7903"
+  },
+  {
+    "examine": "A guardsman with superior equipment, funded by Duke Horacio's treasury.",
+    "name": "Guardsman Peale",
+    "id": "7904"
+  },
+  {
+    "examine": "Removed IDs 7905–7911 on 17 September, 2009.",
+    "name": "Barricade guard",
+    "id": "7905"
+  },
+  {
+    "examine": "Guards the border between Al Kharid and the Kingdom of Misthalin.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Border Guard",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "7912",
+    "aggressive": "true",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "He seems to have travelled some distance.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Iain",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "7913",
     "aggressive": "true",
     "range_level": "1",
     "attack_level": "1"
@@ -75305,6 +75769,16 @@
     "examine": "What is he doing here?",
     "name": "Nanuq",
     "id": "8063"
+  },
+  {
+    "examine": "What's black and white and smells of pumpkin?",
+    "name": "Pumpkin",
+    "id": "8077"
+  },
+  {
+    "examine": "A young witch.",
+    "name": "Maggie",
+    "id": "8078"
   },
   {
     "examine": "A shiny, happy star sprite.",
@@ -75922,6 +76396,86 @@
     "examine": "A wizard. Apparently he's into portals.",
     "name": "Isidor",
     "id": "8544"
+  },
+  {
+    "examine": "A baby phoenix and it's as cute as buttons!",
+    "name": "Phoenix eggling",
+    "id": "8550"
+  },
+  {
+    "examine": "A baby phoenix and it's bad to the bone!",
+    "name": "Phoenix eggling",
+    "id": "8551"
+  },
+  {
+    "examine": "A baby phoenix and it's bad to the bone!",
+    "name": "Phoenix eggling",
+    "id": "8576"
+  },
+  {
+    "examine": "A baby phoenix and it's bad to the bone!",
+    "name": "Phoenix eggling",
+    "id": "8577"
+  },
+  {
+    "examine": "A baby phoenix and it's as cute as buttons!",
+    "name": "Phoenix eggling",
+    "id": "8578"
+  },
+  {
+    "examine": "A worshipper of Guthix.",
+    "name": "Priest of Guthix",
+    "id": "8579"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8580"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8581"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8582"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8583"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8584"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8585"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8586"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8587"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8588"
+  },
+  {
+    "examine": "Party Pete's pet.",
+    "name": "Karma the chameleon",
+    "id": "8589"
   },
   {
     "examine": "He collects flax.",
