@@ -327,7 +327,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "Part of Al-Kharid's elite fighting force.",
+    "examine": "Part of Al Kharid's elite fighting force.",
     "melee_animation": "390",
     "combat_audio": "2500,1976,512",
     "range_animation": "390",
