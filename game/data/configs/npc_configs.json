@@ -75885,6 +75885,21 @@
     "id": "8171"
   },
   {
+    "examine": "A witch-in-training.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Lottie",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "8206",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "He looks dangerous!",
     "name": "Turael",
     "defence_level": "1",
