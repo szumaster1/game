@@ -66488,6 +66488,21 @@
     "defence_animation": "7559"
   },
   {
+    "examine": "A traditional snowman.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Snowman",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "6746",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "A snowman armed with a holly bow.",
     "name": "Snow ranger",
     "defence_level": "10",
@@ -73369,7 +73384,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "He likes a good fight",
+    "examine": "He likes a good fight.",
     "melee_animation": "0",
     "range_animation": "0",
     "defence_animation": "0",
