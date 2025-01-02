@@ -21358,6 +21358,16 @@
     "attack_level": "1"
   },
   {
+    "examine": "A hard-working potter.",
+    "name": "Tassie Slipcast",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "1793",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "Enthusiastic gnome construction engineer.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -31182,8 +31192,8 @@
   {
     "examine": "If I didn't know better, I'd swear there's something in there...",
     "name": "Suspicious water",
-    "id": "2895",
-    "water_npc": true
+    "water_npc": true,
+    "id": "2895"
   },
   {
     "agg_radius": "12",
