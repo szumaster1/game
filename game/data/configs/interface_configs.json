@@ -360,6 +360,30 @@
     "tabIndex": "-1"
   },
   {
+    "id": "215",
+    "interfaceType": "4",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "216",
+    "interfaceType": "4",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "217",
+    "interfaceType": "4",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "218",
+    "interfaceType": "4",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
     "id": "219",
     "interfaceType": "4",
     "walkable": "false",
