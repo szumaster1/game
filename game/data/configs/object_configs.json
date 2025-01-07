@@ -14822,5 +14822,21 @@
   {
     "examine": "Looks like a stone doorway to me.",
     "ids": "35542,35543,35544,35400"
+  },
+  {
+    "examine": "Similar to a fish in name only.",
+    "ids": "19220"
+  },
+  {
+    "examine": "A falconry perch.",
+    "ids": "19220"
+  },
+  {
+    "examine": "Oh, oh, oh, It's Magic",
+    "ids": "21918"
+  },
+  {
+    "examine": "It's ALIVE!",
+    "ids": "21894"
   }
 ]

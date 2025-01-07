@@ -1116,9 +1116,21 @@
     "tabIndex": "-1"
   },
   {
+    "id": "760",
+    "interfaceType": "4",
+    "walkable": "true",
+    "tabIndex": "-1"
+  },
+  {
     "id": "763",
     "interfaceType": "3",
     "walkable": "false",
+    "tabIndex": "-1"
+  },
+  {
+    "id": "769",
+    "interfaceType": "4",
+    "walkable": "true",
     "tabIndex": "-1"
   },
   {
