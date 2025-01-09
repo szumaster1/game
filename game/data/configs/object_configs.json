@@ -14838,5 +14838,13 @@
   {
     "examine": "It's ALIVE!",
     "ids": "21894"
+  },
+  {
+    "examine": "Handy for woodcutting.",
+    "ids": "14912"
+  },
+  {
+    "examine": "Someone's been chopping logs",
+    "ids": "36974"
   }
 ]
