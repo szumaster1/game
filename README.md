@@ -1,18 +1,15 @@
 #### Setup the project
 
----
-
-1. Download the [GitHub Desktop](https://desktop.github.com/download/) app.
-2. Fork this repository to your account, then clone it using the GitHub Desktop app, or simply download the repository.
-3. Run launch.bat on Windows or launch.sh on a UNIX-based system.
-4. Once the server starts, run client.jar.
+1. Download the repository.
+2. Run `launch.bat` on Windows or `launch.sh` on a UNIX-based system.
+3. Once the server starts, run `client.jar`.
 
 #### FAQ
 
----
+- Admin rights
 
-#### Admin rights
-Open the default.conf file, locate noauth_default_admin = false, and change it to true.
+Open the `default.conf` file, locate `noauth_default_admin = false`, and change it to `true`.
 
-#### Adjust XP Rates
-Open the default.conf file, locate default_xp_rate = 1.0, and set the multiplier to a value that suits your preferences.
+- Adjust XP Rates
+
+Open the `default.conf` file, locate `default_xp_rate = 1.0`, and set the multiplier to a value that suits your preferences.
