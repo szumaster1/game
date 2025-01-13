@@ -1,17 +1,3 @@
-#### Features
-
-- Offline
-- Perfectly failed code
-- Lag-Powered adventures
-
-#### Requirements
-
-- `RAM`: Between 4GB and 16GB.
-- `Processor`: Any processor made in the last decade.
-- `Hard drive`: SSD preferred, but we won't judge you if you’re still living in the age of HDDs.
-- `Graphics Card`: Your built-in graphics will do fine.
-- `Internet Connection`: No.
-
 #### Setup the project
 
 <details>
