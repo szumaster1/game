@@ -24,7 +24,7 @@
 
 #### Troubleshooting
 
-If you hit a snag during setup or while running the server, don’t stress. Check out the issues – or if you're completely lost, just toss the project aside and go play something else.
+If you hit a snag during setup or while running the server, don’t stress. Check out the issues.
 
 ---
 
