@@ -75629,6 +75629,25 @@
     "attack_level": "1"
   },
   {
+    "examine": "One of Gielinor's many citizens.",
+    "melee_animation": "422",
+    "combat_audio": "511,506,505",
+    "range_animation": "422",
+    "attack_speed": "4",
+    "defence_animation": "404",
+    "weakness": "9",
+    "magic_animation": "422",
+    "death_animation": "9055",
+    "name": "Woman",
+    "defence_level": "3",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "7925",
+    "clue_level": "0",
+    "range_level": "1",
+    "attack_level": "3"
+  },
+  {
     "examine": "A man of his craft.",
     "name": "Smelting Tutor",
     "movement_radius": "5",
