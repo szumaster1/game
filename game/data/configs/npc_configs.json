@@ -1308,36 +1308,54 @@
     "attack_level": "1"
   },
   {
-    "examine": "A hideous malformed elf.",
-    "melee_animation": "422",
-    "range_animation": "422",
-    "magic_level": "1",
-    "defence_animation": "404",
-    "magic_animation": "422",
-    "death_animation": "9055",
+    "examine": "null",
+    "name": "null",
+    "id": "70"
+  },
+  {
+    "examine": "https://oldschool.runescape.wiki/w/Orc_(historical)",
     "name": "Orc",
-    "defence_level": "1",
-    "lifepoints": "10",
-    "strength_level": "1",
-    "id": "71",
-    "range_level": "1",
-    "attack_level": "1"
+    "id": "71"
   },
   {
     "examine": "A hideously deformed creature.",
-    "melee_animation": "422",
-    "range_animation": "422",
+    "slayer_task": "",
+    "melee_animation": "284",
+    "range_animation": "284",
+    "attack_speed": "4",
     "magic_level": "1",
-    "defence_animation": "404",
-    "magic_animation": "422",
-    "death_animation": "9055",
-    "name": "Troll",
-    "defence_level": "1",
-    "lifepoints": "10",
-    "strength_level": "1",
+    "defence_animation": "285",
+    "magic_animation": "1",
+    "death_animation": "287",
+    "name": "Troll (historical)",
+    "defence_level": "40",
+    "lifepoints": "90",
+    "strength_level": "75",
     "id": "72",
+    "aggressive": "true",
+    "bonuses": "20,20,0,0,0,0,0,0,10,0,0,0,0,0,0",
     "range_level": "1",
-    "attack_level": "1"
+    "attack_level": "40"
+  },
+  {
+    "examine": "A hideously deformed creature.",
+    "slayer_task": "",
+    "melee_animation": "284",
+    "range_animation": "284",
+    "attack_speed": "4",
+    "magic_level": "1",
+    "defence_animation": "285",
+    "magic_animation": "1",
+    "death_animation": "287",
+    "name": "Troll (historical)",
+    "defence_level": "40",
+    "lifepoints": "90",
+    "strength_level": "75",
+    "id": "72",
+    "aggressive": "true",
+    "bonuses": "20,20,0,0,0,0,0,0,10,0,0,0,0,0,0",
+    "range_level": "1",
+    "attack_level": "40"
   },
   {
     "examine": "Dead man walking.",
@@ -3875,12 +3893,22 @@
     "attack_level": "1"
   },
   {
-    "examine": "A powerful Wizard of the Knights of the Round Table.",
-    "name": "Merlin",
-    "id": "213"
+    "examine": "Hail to the King!",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Sir Percival",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "211",
+    "range_level": "1",
+    "attack_level": "1"
   },
   {
-    "examine": "A former Knight of the Round Table.",
+    "examine": "Hail to the King!",
     "melee_animation": "0",
     "range_animation": "0",
     "defence_animation": "0",
@@ -3891,6 +3919,36 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "212",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Hail to the King!",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "King Percival",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "212",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Hail to the King!",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Merlin",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "213",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -3906,6 +3964,21 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "214",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "He looks unhappy...",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Peasant",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "215",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -4040,6 +4113,31 @@
     "attack_level": "8"
   },
   {
+    "examine": "The Fishing Contest judge.",
+    "name": "Bonzo",
+    "id": "225"
+  },
+  {
+    "examine": "He looks a LOT like a vampire...",
+    "name": "Sinister Stranger (Wrapper)",
+    "id": "226"
+  },
+  {
+    "examine": "He checks the entrants to the Fishing Contest",
+    "name": "Morris",
+    "id": "227"
+  },
+  {
+    "examine": "I can see how he got his name.",
+    "name": "Big Dave",
+    "id": "228"
+  },
+  {
+    "examine": "He loves to fish!",
+    "name": "Joshua",
+    "id": "229"
+  },
+  {
     "examine": "He looks elderly.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -4070,13 +4168,28 @@
     "attack_level": "1"
   },
   {
+    "examine": "He looks short and grumpy.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Austri",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "232",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "I can fish here.",
     "melee_animation": "0",
     "range_animation": "0",
     "defence_animation": "0",
     "magic_animation": "0",
     "death_animation": "0",
-    "name": "Fishing spot",
+    "name": "Fishing spot (Bait)",
     "defence_level": "1",
     "lifepoints": "10",
     "strength_level": "1",
@@ -4085,11 +4198,56 @@
     "attack_level": "1"
   },
   {
+    "examine": "I can fish here.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Fishing spot (Bait)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "234",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "I can fish here.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Fishing spot (Bait)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "235",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "I can fish here.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Fishing spot (Bait)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "236",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "He isn't very friendly.",
     "melee_animation": "6489",
     "range_animation": "0",
     "respawn_delay": "60",
-    "defence_animation": "0",
+    "defence_animation": "6488",
     "weakness": "7",
     "magic_animation": "0",
     "death_animation": "6490",
@@ -4251,6 +4409,13 @@
     "range_level": "1",
     "attack_level": "1",
     "defence_animation": "6488"
+  },
+  {
+    "examine": "An evil and powerful sorceress.",
+    "name": "Morgan Le Faye",
+    "lifepoints": "7",
+    "strength_level": "1",
+    "id": "248"
   },
   {
     "examine": "A powerful Wizard of the Knights of the Round Table.",
@@ -4461,6 +4626,21 @@
     "attack_level": "1"
   },
   {
+    "examine": "He looks mistreated and weak.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Hengrad",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "263",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
     "examine": "She looks wealthy.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -4655,6 +4835,11 @@
     "attack_level": "30"
   },
   {
+    "examine": "A witch.",
+    "name": "Winelda",
+    "id": "276"
+  },
+  {
     "examine": "Intimidating!",
     "combat_style": "2",
     "start_gfx": "99",
@@ -4800,22 +4985,14 @@
     "id": "286"
   },
   {
-    "examine": "Yep, definitely a chicken.",
-    "melee_animation": "5387",
-    "combat_audio": "355,357,356",
-    "range_animation": "5387",
-    "attack_speed": "6",
-    "respawn_delay": "18",
-    "defence_animation": "5388",
-    "magic_animation": "5387",
-    "death_animation": "5389",
-    "name": "Chicken",
-    "defence_level": "1",
-    "lifepoints": "3",
-    "strength_level": "1",
-    "id": "288",
-    "range_level": "1",
-    "attack_level": "1"
+    "examine": "null",
+    "name": "null",
+    "id": "287"
+  },
+  {
+    "examine": "null",
+    "name": "null",
+    "id": "288"
   },
   {
     "examine": "An official of Ardougne.",
@@ -4859,6 +5036,66 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "291",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "This sheep is dyed red. The sheep looks distinctly unwell and has a slight red tinge.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Sick-looking sheep (1)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "292",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "The sheep looks distinctly unwell and has a slight green tinge.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Sick-looking sheep (2)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "293",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "The sheep looks distinctly unwell and has a slight blue tinge.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Sick-looking sheep (3)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "294",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "The sheep looks distinctly unwell and has a slight yellow tinge.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Sick-looking sheep (4)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "295",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -5010,8 +5247,143 @@
   },
   {
     "examine": "I can see fish swimming in the water.",
-    "name": "Fishing spot",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "309"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "310"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "311"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Cage/Harpoon)",
+    "id": "312"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Harpoon)",
+    "id": "313"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "314"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "315"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "316"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "316"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "317"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "318"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "319"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "320"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Cage/Harpoon)",
+    "id": "321"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Harpoon)",
+    "id": "322"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
     "id": "323"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Cage/Harpoon)",
+    "id": "324"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "325"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "326"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "327"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "328"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "329"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "330"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Lure/Bait)",
+    "id": "331"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Bait)",
+    "id": "332"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Cage/Harpoon)",
+    "id": "333"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Harpoon)",
+    "id": "334"
+  },
+  {
+    "examine": "I can see fish swimming in the water.",
+    "name": "Fishing spot (Net/Harpoon)",
+    "id": "335"
   },
   {
     "examine": "He has a colourful personality.",
@@ -5025,6 +5397,22 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "336",
+    "aggressive": "true",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "He has a colourful personality.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Da Vinci (Varrock)",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "337",
     "aggressive": "true",
     "range_level": "1",
     "attack_level": "1"
@@ -5186,6 +5574,16 @@
     "id": "348",
     "range_level": "1",
     "attack_level": "24"
+  },
+  {
+    "examine": "He looks shifty",
+    "name": "Kilron",
+    "id": "349"
+  },
+  {
+    "examine": "A nervous looking fellow.",
+    "name": "Omart",
+    "id": "350"
   },
   {
     "examine": "One of Gielinor's many citizens.",
@@ -5579,6 +5977,11 @@
     "attack_level": "1"
   },
   {
+    "examine": "An old sailor.",
+    "name": "Captain Barnaby (Wrapper)",
+    "id": "381"
+  },
+  {
     "examine": "A dwarf who looks after the mining guild.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -5870,6 +6273,26 @@
     "attack_level": "1"
   },
   {
+    "examine": "",
+    "name": "Fishing spot (Lure/Bait) (Whirlpool)",
+    "id": "403"
+  },
+  {
+    "examine": "",
+    "name": "Fishing spot (Net/Bait) (Whirlpool)",
+    "id": "404"
+  },
+  {
+    "examine": "",
+    "name": "Fishing spot (Cage/Harpoon) (Whirlpool)",
+    "id": "405"
+  },
+  {
+    "examine": "",
+    "name": "Fishing spot (Net/Harpoon) (Whirlpool)",
+    "id": "406"
+  },
+  {
     "examine": "A very strange plant.",
     "name": "Strange Plant",
     "id": "407"
@@ -5884,6 +6307,11 @@
     "id": "408",
     "magic_level": "200",
     "defence_animation": "354"
+  },
+  {
+    "examine": "Maybe he'll grant me a wish...",
+    "name": "Genie",
+    "id": "409"
   },
   {
     "examine": "A very strange old man...",
@@ -6802,6 +7230,21 @@
     "lifepoints": "10",
     "strength_level": "1",
     "id": "467",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "Let's not go skinny dipping eh?",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Shark",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "468",
     "range_level": "1",
     "attack_level": "1"
   },
