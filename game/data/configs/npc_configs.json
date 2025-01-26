@@ -1338,26 +1338,6 @@
     "attack_level": "40"
   },
   {
-    "examine": "A hideously deformed creature.",
-    "slayer_task": "",
-    "melee_animation": "284",
-    "range_animation": "284",
-    "attack_speed": "4",
-    "magic_level": "1",
-    "defence_animation": "285",
-    "magic_animation": "1",
-    "death_animation": "287",
-    "name": "Troll (historical)",
-    "defence_level": "40",
-    "lifepoints": "90",
-    "strength_level": "75",
-    "id": "72",
-    "aggressive": "true",
-    "bonuses": "20,20,0,0,0,0,0,0,10,0,0,0,0,0,0",
-    "range_level": "1",
-    "attack_level": "40"
-  },
-  {
     "examine": "Dead man walking.",
     "slayer_task": "93",
     "melee_animation": "5567",
@@ -3929,21 +3909,6 @@
     "defence_animation": "0",
     "magic_animation": "0",
     "death_animation": "0",
-    "name": "King Percival",
-    "defence_level": "1",
-    "lifepoints": "10",
-    "strength_level": "1",
-    "id": "212",
-    "range_level": "1",
-    "attack_level": "1"
-  },
-  {
-    "examine": "Hail to the King!",
-    "melee_animation": "0",
-    "range_animation": "0",
-    "defence_animation": "0",
-    "magic_animation": "0",
-    "death_animation": "0",
     "name": "Merlin",
     "defence_level": "1",
     "lifepoints": "10",
@@ -5279,11 +5244,6 @@
     "examine": "I can see fish swimming in the water.",
     "name": "Fishing spot (Lure/Bait)",
     "id": "315"
-  },
-  {
-    "examine": "I can see fish swimming in the water.",
-    "name": "Fishing spot (Net/Bait)",
-    "id": "316"
   },
   {
     "examine": "I can see fish swimming in the water.",
@@ -72371,7 +72331,7 @@
     "defence_animation": "0",
     "magic_animation": "0",
     "death_animation": "0",
-    "name": "Baby squirrels",
+    "name": "Baby squirrel",
     "defence_level": "1",
     "lifepoints": "10",
     "strength_level": "1",
@@ -72380,6 +72340,107 @@
     "attack_level": "1"
   },
   {
+    "examine": "A tiny nut-thief.",
+    "name": "Baby squirrel",
+    "id": "7311"
+  },
+  {
+    "examine": "A tiny nut-thief.",
+    "name": "Baby squirrel",
+    "id": "7312"
+  },
+  {
+    "examine": "Can't fly and can barely walk, but adorable nonetheless.",
+    "name": "Baby Penguin",
+    "id": "7313"
+  },
+  {
+    "examine": "Emperor of all he surveys.",
+    "name": "Penguin",
+    "id": "7314"
+  },
+  {
+    "examine": "Emperor of all he surveys.",
+    "name": "Penguin",
+    "id": "7315"
+  },
+  {
+    "examine": "Can't fly and can barely walk, but adorable nonetheless.",
+    "name": "Baby Penguin",
+    "id": "7316"
+  },
+  {
+    "examine": "Emperor of all he surveys.",
+    "name": "Penguin",
+    "id": "7317"
+  },
+  {
+    "examine": "Emperor of all he surveys.",
+    "name": "Penguin",
+    "id": "7318"
+  },
+  {
+    "examine": "A baby vulture.",
+    "name": "Vulture chick",
+    "id": "7319"
+  },
+  {
+    "examine": "An adult vulture.",
+    "name": "Vulture",
+    "id": "7320"
+  },
+  {
+    "examine": "A baby vulture.",
+    "name": "Vulture chick",
+    "id": "7321"
+  },
+  {
+    "examine": "A tiny nut-thief.",
+    "melee_animation": "0",
+    "range_animation": "0",
+    "defence_animation": "0",
+    "magic_animation": "0",
+    "death_animation": "0",
+    "name": "Baby squirrel",
+    "defence_level": "1",
+    "lifepoints": "10",
+    "strength_level": "1",
+    "id": "7322",
+    "range_level": "1",
+    "attack_level": "1"
+  },
+  {
+    "examine": "A baby vulture.",
+    "name": "Vulture chick",
+    "id": "7323"
+  },
+  {
+    "examine": "An adult vulture.",
+    "name": "Vulture",
+    "id": "7324"
+  },
+  {
+    "examine": "A baby vulture.",
+    "name": "Vulture chick",
+    "id": "7325"
+  },
+  {
+    "examine": "An adult vulture.",
+    "name": "Vulture",
+    "id": "7326"
+  },
+  {
+    "examine": "A baby vulture.",
+    "name": "Vulture chick",
+    "id": "7327"
+  },
+  {
+    "examine": "An adult vulture.",
+    "name": "Vulture",
+    "id": "7328"
+  },
+  {
+    "examine": "Do you hear duelling banjos?",
     "combat_style": "1",
     "melee_animation": "8222",
     "magic_level": "70",
@@ -72402,7 +72463,7 @@
     "range_animation": "0",
     "magic_level": "65",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "8224",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "8226",
@@ -72467,11 +72528,29 @@
     "defence_level": "34",
     "lifepoints": "48",
     "strength_level": "34",
+    "id": "7333",
+    "range_level": "34",
+    "attack_level": "34"
+  },
+  {
+    "examine": "It spins.",
+    "melee_animation": "8172",
+    "range_animation": "0",
+    "magic_level": "34",
+    "defence_animation": "0",
+    "weakness": "10",
+    "magic_animation": "0",
+    "death_animation": "8176",
+    "name": "Void spinner",
+    "defence_level": "34",
+    "lifepoints": "48",
+    "strength_level": "34",
     "id": "7334",
     "range_level": "34",
     "attack_level": "34"
   },
   {
+    "examine": "This one will burn right through the net!",
     "death_animation": "7864",
     "name": "Forge regent",
     "defence_level": "1",
@@ -72486,11 +72565,11 @@
   },
   {
     "examine": "This one will burn right through the net!",
-    "melee_animation": "7863",
+    "melee_animation": "7865",
     "range_animation": "0",
     "magic_level": "60",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "7863",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "7864",
@@ -72522,7 +72601,7 @@
     "range_animation": "0",
     "magic_level": "50",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "5227",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "5230",
@@ -72598,7 +72677,7 @@
     "range_animation": "0",
     "magic_level": "65",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "7981",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "7979",
@@ -72675,7 +72754,7 @@
     "range_animation": "0",
     "magic_level": "60",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "8051",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "8052",
@@ -72689,6 +72768,7 @@
     "attack_level": "60"
   },
   {
+    "examine": "If a normal black cat is bad luck, what happens if this crosses your path?",
     "death_animation": "5990",
     "name": "Talon beast",
     "defence_level": "1",
@@ -72702,12 +72782,12 @@
     "defence_animation": "5988"
   },
   {
-    "examine": "If a normal black cat is bad luck",
+    "examine": "If a normal black cat is bad luck, what happens if this crosses your path?",
     "melee_animation": "5989",
     "range_animation": "0",
     "magic_level": "60",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "5988",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "5990",
@@ -72720,6 +72800,7 @@
     "attack_level": "60"
   },
   {
+    "examine": "Big, mean, ugly, and from a different dimension.",
     "death_animation": "7979",
     "name": "Abyssal titan",
     "defence_level": "1",
@@ -72733,12 +72814,12 @@
     "defence_animation": "7691"
   },
   {
-    "examine": "Big",
+    "examine": "Big, mean, ugly, and from a different dimension.",
     "melee_animation": "7693",
     "range_animation": "0",
     "magic_level": "70",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "7691",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "7692",
@@ -72755,7 +72836,24 @@
     "melee_animation": "8235",
     "range_animation": "0",
     "magic_level": "34",
-    "defence_animation": "0",
+    "defence_animation": "8237",
+    "weakness": "10",
+    "magic_animation": "0",
+    "death_animation": "8236",
+    "name": "Void torcher",
+    "defence_level": "34",
+    "lifepoints": "48",
+    "strength_level": "34",
+    "id": "7351",
+    "range_level": "34",
+    "attack_level": "34"
+  },
+  {
+    "examine": "It torches.",
+    "melee_animation": "8235",
+    "range_animation": "0",
+    "magic_level": "34",
+    "defence_animation": "8237",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "8236",
@@ -72768,6 +72866,7 @@
     "attack_level": "34"
   },
   {
+    "examine": "Looks a little...volatile.",
     "death_animation": "7758",
     "name": "Giant chinchompa",
     "defence_level": "1",
@@ -72786,7 +72885,7 @@
     "range_animation": "0",
     "magic_level": "29",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "7753",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "7758",
@@ -72931,6 +73030,7 @@
     "attack_level": "40"
   },
   {
+    "examine": "This bat burned down the belfry.",
     "combat_style": "1",
     "melee_animation": "8257",
     "attack_speed": "3",
@@ -73051,6 +73151,40 @@
     "attack_level": "34"
   },
   {
+    "examine": "It shifts.",
+    "melee_animation": "8131",
+    "range_animation": "0",
+    "magic_level": "34",
+    "defence_animation": "0",
+    "weakness": "10",
+    "magic_animation": "0",
+    "death_animation": "8133",
+    "name": "Void shifter",
+    "defence_level": "34",
+    "lifepoints": "48",
+    "strength_level": "34",
+    "id": "7369",
+    "range_level": "34",
+    "attack_level": "34"
+  },
+  {
+    "examine": "It ravages.",
+    "melee_animation": "8086",
+    "range_animation": "0",
+    "magic_level": "34",
+    "defence_animation": "0",
+    "weakness": "10",
+    "magic_animation": "0",
+    "death_animation": "8087",
+    "name": "Void ravager",
+    "defence_level": "34",
+    "lifepoints": "48",
+    "strength_level": "34",
+    "id": "7370",
+    "range_level": "34",
+    "attack_level": "34"
+  },
+  {
     "examine": "It ravages.",
     "melee_animation": "8086",
     "range_animation": "0",
@@ -73073,7 +73207,25 @@
     "range_animation": "0",
     "magic_level": "60",
     "respawn_delay": "0",
-    "defence_animation": "0",
+    "defence_animation": "7995",
+    "weakness": "10",
+    "magic_animation": "0",
+    "death_animation": "7996",
+    "name": "Ravenous locust",
+    "defence_level": "60",
+    "lifepoints": "100",
+    "strength_level": "60",
+    "id": "7372",
+    "range_level": "60",
+    "attack_level": "60"
+  },
+  {
+    "examine": "It's like a little stomach on wings.",
+    "melee_animation": "7994",
+    "range_animation": "0",
+    "magic_level": "60",
+    "respawn_delay": "0",
+    "defence_animation": "7995",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "7996",
@@ -73142,7 +73294,24 @@
     "melee_animation": "8080",
     "range_animation": "0",
     "magic_level": "46",
-    "defence_animation": "0",
+    "defence_animation": "8079",
+    "weakness": "10",
+    "magic_animation": "0",
+    "death_animation": "8078",
+    "name": "Pyrelord",
+    "defence_level": "46",
+    "lifepoints": "65",
+    "strength_level": "46",
+    "id": "7377",
+    "range_level": "46",
+    "attack_level": "46"
+  },
+  {
+    "examine": "Where did I put the marshmallows?",
+    "melee_animation": "8080",
+    "range_animation": "0",
+    "magic_level": "46",
+    "defence_animation": "8079",
     "weakness": "10",
     "magic_animation": "0",
     "death_animation": "8078",
@@ -76035,7 +76204,7 @@
     "id": "7904"
   },
   {
-    "examine": "Removed IDs 7905–7911 on 17 September, 2009.",
+    "examine": "Removed IDs 7905-7911 on 17 September, 2009.",
     "name": "Barricade guard",
     "id": "7905"
   },
@@ -76372,6 +76541,31 @@
     "id": "8171"
   },
   {
+    "examine": "A young witch.",
+    "name": "Wendy",
+    "id": "8201"
+  },
+  {
+    "examine": "A feisty cat.",
+    "name": "Trogs",
+    "id": "8202"
+  },
+  {
+    "examine": "A strong ox, no bones about it.",
+    "name": "Norman",
+    "id": "8203"
+  },
+  {
+    "examine": "How can an ox without lungs sneeze like that?",
+    "name": "Babe",
+    "id": "8204"
+  },
+  {
+    "examine": "An underpaid delivery ghoul.",
+    "name": "Gus",
+    "id": "8205"
+  },
+  {
     "examine": "A witch-in-training.",
     "melee_animation": "0",
     "range_animation": "0",
@@ -76385,6 +76579,11 @@
     "id": "8206",
     "range_level": "1",
     "attack_level": "1"
+  },
+  {
+    "examine": "A witch.",
+    "name": "Aggie",
+    "id": "8207"
   },
   {
     "examine": "He looks dangerous!",

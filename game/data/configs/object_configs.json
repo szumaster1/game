@@ -14846,5 +14846,29 @@
   {
     "examine": "Someone's been chopping logs",
     "ids": "36974"
+  },
+  {
+    "examine": "Full of clothes and collectibles.",
+    "ids": "39241"
+  },
+  {
+    "examine": "A beautiful fountain.",
+    "ids": "21764"
+  },
+  {
+    "examine": "The perfect place for lounging lizard.",
+    "ids": "39303"
+  },
+  {
+    "examine": "This trapdoor is tightly shut.",
+    "ids": "39274,39330"
+  },
+  {
+    "examine": "I can climb down this ladder.",
+    "ids": "39275"
+  },
+  {
+    "examine": "There appears to be a basement down here.",
+    "ids": "39331"
   }
 ]

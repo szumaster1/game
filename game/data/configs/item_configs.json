@@ -85113,12 +85113,12 @@
     "attack_speed": "4",
     "turn180_anim": "5165",
     "render_anim": "1283",
+    "equipment_slot": "3",
     "stand_anim": "5160",
     "name": "Falconer's glove",
     "tradeable": "false",
     "run_anim": "5168",
     "archery_ticket_price": "0",
-    "equipment_slot": "3",
     "id": "10024",
     "stand_turn_anim": "5161",
     "bonuses": "0,0,0,0,0,0,1,1,0,0,0,0,0,0,0"
@@ -124944,20 +124944,32 @@
     "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
   },
   {
-    "shop_price": "25",
+    "turn90cw_anim": "1207",
     "examine": "A threat to dusty corners everywhere.",
+    "walk_anim": "1205",
+    "turn90ccw_anim": "1208",
+    "attack_speed": "4",
+    "turn180_anim": "1206",
+    "absorb": "0,0,0",
+    "defence_anim": "420",
+    "equipment_slot": "3",
+    "attack_anims": "419,419,419,419",
+    "destroy_message": "You can obtain another by talking to Maggie the witch.",
+    "stand_anim": "813",
+    "tradeable": "false",
+    "run_anim": "1210",
+    "archery_ticket_price": "0",
+    "stand_turn_anim": "1209",
+    "id": "14057",
+    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+    "shop_price": "25",
     "durability": null,
     "destroy": "true",
-    "attack_speed": "4",
     "weapon_interface": "8",
-    "absorb": "0,0,0",
+    "equip_audio": "2247",
     "render_anim": "1072",
-    "equipment_slot": "3",
-    "destroy_message": "You can obtain another by talking to Maggie the witch.",
-    "name": "Broomstick",
-    "archery_ticket_price": "0",
-    "id": "14057",
-    "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+    "attack_audios": "2555,0,0,0",
+    "name": "Broomstick"
   },
   {
     "destroy_message": "If you drop the goulash, it will be destroyed. You can get some more by dipping a bowl into Maggie's cauldron.",
@@ -125099,8 +125111,9 @@
     "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
   },
   {
+    "destroy_message": "If you release this creature, you will have to restart the puzzle in Betty's basement.",
     "shop_price": "1",
-    "examine": "An annoying flappy thing.",
+    "examine": "Most at home in a dead tree.",
     "durability": null,
     "name": "Bat",
     "archery_ticket_price": "0",
@@ -125110,8 +125123,9 @@
     "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
   },
   {
+    "destroy_message": "If you release this creature, you will have to restart the puzzle in Betty's basement.",
     "shop_price": "1",
-    "examine": "It's an extremely small brown spider, probably very poisonous.",
+    "examine": "Isn't eight legs rather excessive?",
     "durability": null,
     "name": "Spider",
     "archery_ticket_price": "0",
@@ -125121,6 +125135,7 @@
     "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
   },
   {
+    "destroy_message": "If you release this creature, you will have to restart the puzzle in Betty's basement.",
     "shop_price": "1",
     "examine": "A popular dwarven delicacy.",
     "durability": null,
@@ -125132,7 +125147,9 @@
     "bonuses": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
   },
   {
+    "destroy_message": "If you release this creature, you will have to restart the puzzle in Betty's basement.",
     "shop_price": "1",
+    "examine": "Rather quick, considering.",
     "durability": null,
     "name": "Snail",
     "archery_ticket_price": "0",
