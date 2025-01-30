@@ -59342,5 +59342,177 @@
         "maxAmount": "1"
       }
     ]
+  },
+  {
+    "default": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "592",
+        "maxAmount": "1"
+      }
+    ],
+    "charm": [
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "12163",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "12160",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "12158",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "12159",
+        "maxAmount": "1"
+      }
+    ],
+    "ids": "8557,8558,8559,8560,8561,8562,8563,8564,8565,8566,8567,8568,8569,8570",
+    "description": "Lesser and Greater reborn NPCs.",
+    "main": [
+      {
+        "minAmount": "50",
+        "weight": "7.0",
+        "id": "556",
+        "maxAmount": "75"
+      },
+      {
+        "minAmount": "15",
+        "weight": "4.0",
+        "id": "562",
+        "maxAmount": "40"
+      },
+      {
+        "minAmount": "3",
+        "weight": "5.0",
+        "id": "560",
+        "maxAmount": "3"
+      },
+      {
+        "minAmount": "40",
+        "weight": "5.0",
+        "id": "554",
+        "maxAmount": "60"
+      },
+      {
+        "minAmount": "2",
+        "weight": "5.0",
+        "id": "563",
+        "maxAmount": "2"
+      },
+      {
+        "minAmount": "1",
+        "weight": "3.0",
+        "id": "1391",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "3.0",
+        "id": "1452",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.0",
+        "id": "379",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "7",
+        "weight": "5.0",
+        "id": "224",
+        "maxAmount": "7"
+      },
+      {
+        "minAmount": "1",
+        "weight": "2.0",
+        "id": "985",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "987",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "6.0",
+        "id": "5281",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "3",
+        "weight": "6.0",
+        "id": "5324",
+        "maxAmount": "3"
+      },
+      {
+        "minAmount": "1",
+        "weight": "7.0",
+        "id": "5280",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "3",
+        "weight": "7.0",
+        "id": "5319",
+        "maxAmount": "3"
+      },
+      {
+        "minAmount": "1",
+        "weight": "7.0",
+        "id": "5318",
+        "maxAmount": "4"
+      },
+      {
+        "minAmount": "1",
+        "weight": "7.0",
+        "id": "5322",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "14424",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "14426",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "1",
+        "weight": "1.0",
+        "id": "31",
+        "maxAmount": "1"
+      },
+      {
+        "minAmount": "792",
+        "weight": "9.0",
+        "id": "995",
+        "maxAmount": "1244"
+      },
+      {
+        "minAmount": "1",
+        "weight": "5.0",
+        "id": "2011",
+        "maxAmount": "1"
+      }
+    ]
   }
 ]

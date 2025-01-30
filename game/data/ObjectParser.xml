@@ -82,21 +82,28 @@
     <!-- Rock - Enchanted Valley. -->
     <ObjectAction mode="add" id="31060" x="3025" y="4491" z="0"/>
 
-    <!-- Lever scenery - Prison Pete random event area -->
+    <!-- Lever scenery - Prison Pete random event area. -->
     <ObjectAction mode="remove" id="10817" x="2083" y="4460" z="0"/>
     <ObjectAction mode="add" id="26191" x="2083" y="4460" z="0" direction="e"/>
 
-    <!-- Decorative Pillar - Prison Pete random event area -->
+    <!-- Decorative Pillar - Prison Pete random event area. -->
     <ObjectAction mode="remove" id="11371" x="2085" y="4457" z="0"/>
 
-    <!-- Deposit Box - Prison Pete random event area -->
+    <!-- Deposit Box - Prison Pete random event area. -->
     <ObjectAction mode="add" id="9398" x="2094" y="4465" z="0" direction="n"/>
 
-    <!-- Random sceneries - Prison Pete random event area -->
+    <!-- Random sceneries - Prison Pete random event area. -->
     <ObjectAction mode="remove" id="5346" x="2088" y="4460" z="0"/>
     <ObjectAction mode="remove" id="5346" x="2094" y="4468" z="0"/>
     <ObjectAction mode="remove" id="5347" x="2078" y="4468" z="0"/>
     <ObjectAction mode="remove" id="5347" x="2085" y="4472" z="0"/>
     <ObjectAction mode="remove" id="5348" x="2078" y="4464" z="0"/>
+
+    <!-- Phoenix Lair trees - In Pyre Need quest. -->
+    <ObjectAction mode="add" id="41903" x="3481" y="5241" z="0"/>
+    <ObjectAction mode="add" id="41904" x="3514" y="5205" z="0"/>
+    <ObjectAction mode="add" id="41905" x="3503" y="5236" z="0"/>
+    <ObjectAction mode="add" id="41906" x="3473" y="5209" z="0"/>
+    <ObjectAction mode="add" id="41907" x="3535" y="5242" z="0"/>
 
 </parsing>

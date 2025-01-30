@@ -14870,5 +14870,25 @@
   {
     "examine": "There appears to be a basement down here.",
     "ids": "39331"
+  },
+  {
+    "examine": "Something smells...interesting.",
+    "ids": "39230,39231,39232,39233,39441"
+  },
+  {
+    "examine": "Good for sitting on.",
+    "ids": "39242,39243"
+  },
+  {
+    "examine": "A house on wheels.",
+    "ids": "39237"
+  },
+  {
+    "examine": "It is growing, against the odds, in this cave.",
+    "ids": "39237"
+  },
+  {
+    "examine": "A shrine to Guthix, with a tapestry depicting the phoenix.",
+    "ids": "41979"
   }
 ]
