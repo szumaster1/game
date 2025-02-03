@@ -16439,7 +16439,7 @@
   },
   {
     "ge_buy_limit": "25000",
-    "examine": "Logs cut from an Oak Tree.",
+    "examine": "Logs cut from an oak tree.",
     "grand_exchange_price": "140",
     "durability": null,
     "name": "Oak logs",
