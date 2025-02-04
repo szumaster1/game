@@ -9,17 +9,15 @@ ___
 
 You can download the emulator here: https://github.com/szumaster1/530-game/releases
 
-#### Installation
-
 To start the game, double-click `launch.exe`
 
 #### Configuration
 
 The configuration file is will be in the `2009scape` folder on your root after first launch. `Java` is not required, as the game already has it built in.
 
-#### Configuration
+#### Saves
 
-The save file is will be created in the `2009scape/saves/` folder on your root after first launch.
+The save file is will be created in the `2009scape/saves/` folder on your root.
 
 #### FAQ
 
