@@ -11,7 +11,7 @@ You can download the emulator here: https://github.com/szumaster1/530-game/relea
 
 #### Installation
 
-To start the game, double-click `530-game.exe`
+To start the game, double-click `launch.exe`
 
 #### Configuration
 
